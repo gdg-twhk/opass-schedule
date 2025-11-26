@@ -1,0 +1,1165 @@
+{
+  "rooms": [
+    { "id": "71449", "en": { "name": "博 101" }, "zh": { "name": "博 101" } },
+    { "id": "71450", "en": { "name": "博 102" }, "zh": { "name": "博 102" } },
+    { "id": "71451", "en": { "name": "博 103" }, "zh": { "name": "博 103" } },
+    { "id": "71455", "en": { "name": "博 201" }, "zh": { "name": "博 201" } },
+    { "id": "71452", "en": { "name": "博 202" }, "zh": { "name": "博 202" } },
+    { "id": "71453", "en": { "name": "博 301" }, "zh": { "name": "博 301" } }
+  ],
+  "session_types": [],
+  "sessions": [
+    {
+      "id": "5d59198f-ed70-466c-8eb7-823a61d60c3b",
+      "start": "2025-11-30T08:30:00+08:00",
+      "end": "2025-11-30T09:00:00+08:00",
+      "language": "中文",
+      "room": "71449",
+      "speakers": [],
+      "tags": [],
+      "type": "297889",
+      "en": { "description": "  ", "title": "報到" },
+      "zh": { "description": "  ", "title": "報到" }
+    },
+    {
+      "id": "e71fe8fc-3916-4c1d-801d-9bc7b95af143",
+      "start": "2025-11-30T09:00:00+08:00",
+      "end": "2025-11-30T09:10:00+08:00",
+      "language": "中文",
+      "room": "71449",
+      "speakers": [],
+      "tags": [],
+      "type": "297889",
+      "en": { "description": "  ", "title": "Opening" },
+      "zh": { "description": "  ", "title": "Opening" }
+    },
+    {
+      "id": "1083281",
+      "start": "2025-11-30T09:10:00+08:00",
+      "end": "2025-11-30T09:20:00+08:00",
+      "language": "中文",
+      "room": "71449",
+      "speakers": ["bc27bba9-7540-4b16-b5bd-c699083f744e"],
+      "tags": [],
+      "type": "297889",
+      "en": {
+        "description": "  ",
+        "title": "Google 開發者計劃如何賦能開發人員"
+      },
+      "zh": {
+        "description": "  ",
+        "title": "Google 開發者計劃如何賦能開發人員"
+      }
+    },
+    {
+      "id": "1083282",
+      "start": "2025-11-30T09:20:00+08:00",
+      "end": "2025-11-30T09:30:00+08:00",
+      "language": "中文",
+      "room": "71449",
+      "speakers": ["b3a7c14a-f0d9-4372-ba76-efb2acc79f2d"],
+      "tags": [],
+      "type": "297889",
+      "en": {
+        "description": "  ",
+        "title": "Changing Landscape of Software Development"
+      },
+      "zh": {
+        "description": "  ",
+        "title": "Changing Landscape of Software Development"
+      }
+    },
+    {
+      "id": "1083279",
+      "start": "2025-11-30T09:30:00+08:00",
+      "end": "2025-11-30T10:00:00+08:00",
+      "language": "中文",
+      "room": "71449",
+      "speakers": ["0adb35c2-379b-4a14-b68f-4a757a3f6ed6"],
+      "tags": [],
+      "type": "297889",
+      "en": {
+        "description": "Discover the latest updates from Google AI and Google Cloud for developers. Gemini 3 delivers a leap in intelligence that unlocks new possibilities for developers, solving challenges that were previously out of reach. Join this session to explore these key highlights and learn how to \"Build Faster, Build Smarter\" in your daily development.",
+        "title": "What's New from Google Cloud AI for Developers."
+      },
+      "zh": {
+        "description": "Discover the latest updates from Google AI and Google Cloud for developers. Gemini 3 delivers a leap in intelligence that unlocks new possibilities for developers, solving challenges that were previously out of reach. Join this session to explore these key highlights and learn how to \"Build Faster, Build Smarter\" in your daily development.",
+        "title": "What's New from Google Cloud AI for Developers."
+      }
+    },
+    {
+      "id": "89fcf083-1476-4718-a415-329dba2e50f9",
+      "start": "2025-11-30T10:00:00+08:00",
+      "end": "2025-11-30T10:30:00+08:00",
+      "language": "中文",
+      "room": "71449",
+      "speakers": [],
+      "tags": [],
+      "type": "297889",
+      "en": { "description": "  ", "title": "Google Cloud Credit Redeem" },
+      "zh": { "description": "  ", "title": "Google Cloud Credit Redeem" }
+    },
+    {
+      "id": "1043549",
+      "start": "2025-11-30T10:30:00+08:00",
+      "end": "2025-11-30T11:10:00+08:00",
+      "language": "中文",
+      "room": "71449",
+      "speakers": ["84296b39-df28-462e-a1c1-8f0a2416c555"],
+      "tags": ["394315", "411193"],
+      "type": "297889",
+      "en": {
+        "description": "Gemini CLI 是一款先進的 AI 程式設計助理，專為開發者設計，可直接在您的本機終端機環境中無縫運作。它由強大的 Google Gemini 模型驅動，能深度理解自然語言指令以及您的專案程式碼上下文、檔案結構與既有慣例。\r\n\r\n您可以透過對話，讓它協助您完成橫跨開發到維運的多元任務。例如：編寫應用程式碼與單元測試、撰寫 IaC 設定（如 Terraform、Kubernetes）、產生 CI/CD 管線腳本、建立 Dockerfile。此外，它也能解釋複雜邏輯、分析日誌與設定檔、執行 shell 指令並安全地修改檔案。其目標是成為您在 DevOps 流程中的智慧夥伴，顯著提升日常工作效率。\r\n",
+        "title": "Gemini CLI 介紹與上手"
+      },
+      "zh": {
+        "description": "Gemini CLI 是一款先進的 AI 程式設計助理，專為開發者設計，可直接在您的本機終端機環境中無縫運作。它由強大的 Google Gemini 模型驅動，能深度理解自然語言指令以及您的專案程式碼上下文、檔案結構與既有慣例。\r\n\r\n您可以透過對話，讓它協助您完成橫跨開發到維運的多元任務。例如：編寫應用程式碼與單元測試、撰寫 IaC 設定（如 Terraform、Kubernetes）、產生 CI/CD 管線腳本、建立 Dockerfile。此外，它也能解釋複雜邏輯、分析日誌與設定檔、執行 shell 指令並安全地修改檔案。其目標是成為您在 DevOps 流程中的智慧夥伴，顯著提升日常工作效率。\r\n",
+        "title": "Gemini CLI 介紹與上手"
+      }
+    },
+    {
+      "id": "1024207",
+      "start": "2025-11-30T11:20:00+08:00",
+      "end": "2025-11-30T12:00:00+08:00",
+      "language": "中文",
+      "room": "71449",
+      "speakers": ["29e9ee2f-e316-4829-bdb9-2fafdf7f3e8c"],
+      "tags": ["394314", "394315", "411193"],
+      "type": "297889",
+      "en": {
+        "description": "本議程將為您提供一份完整的實戰指南。我們將展示如何以 Gemini CLI 作為開發起點，來實作遵循 ADK 概念的 AI Agent。\r\n",
+        "title": "利用 Gemini CLI 與 ADK 開發 Agentic 應用"
+      },
+      "zh": {
+        "description": "本議程將為您提供一份完整的實戰指南。我們將展示如何以 Gemini CLI 作為開發起點，來實作遵循 ADK 概念的 AI Agent。\r\n",
+        "title": "利用 Gemini CLI 與 ADK 開發 Agentic 應用"
+      }
+    },
+    {
+      "id": "1052476",
+      "start": "2025-11-30T13:00:00+08:00",
+      "end": "2025-11-30T13:40:00+08:00",
+      "language": "中文",
+      "room": "71449",
+      "speakers": ["f6fb1aa3-f7f6-4d2e-95f9-abec5d5b8a0d"],
+      "tags": ["394314", "394315"],
+      "type": "297889",
+      "en": {
+        "description": "將深度解析一個 Multi-Agent AI 系統的架構。我們將以程式碼為核心，一步步拆解它的設計模式與實作細節，而非單純的實作練習。您將會看到最關鍵的核心程式碼 (code snippet)，並理解如何運用 ADK 打造專職 Agent、透過 A2A 促成 Agent 間的溝通，以及利用 MCP 整合外部 API。這場分享適合想深入了解如何建構複雜協作式 AI 解決方案，及其背後設計理念的開發者與架構師。",
+        "title": "ADK/A2A/MCP 實戰解析"
+      },
+      "zh": {
+        "description": "將深度解析一個 Multi-Agent AI 系統的架構。我們將以程式碼為核心，一步步拆解它的設計模式與實作細節，而非單純的實作練習。您將會看到最關鍵的核心程式碼 (code snippet)，並理解如何運用 ADK 打造專職 Agent、透過 A2A 促成 Agent 間的溝通，以及利用 MCP 整合外部 API。這場分享適合想深入了解如何建構複雜協作式 AI 解決方案，及其背後設計理念的開發者與架構師。",
+        "title": "ADK/A2A/MCP 實戰解析"
+      }
+    },
+    {
+      "id": "1050353",
+      "start": "2025-11-30T13:50:00+08:00",
+      "end": "2025-11-30T14:30:00+08:00",
+      "language": "中文",
+      "room": "71449",
+      "speakers": ["245ec8d9-dd6e-499b-a9ce-b40755e2ad2b"],
+      "tags": ["394315", "411193"],
+      "type": "297889",
+      "en": {
+        "description": "在這個議程中，我將帶領大家探索 Google 的 Gemini CLI 工具，展示如何在不撰寫任何程式碼的情況下，快速建立功能強大的 AI Agent 代理人。透過實際示範，您將學習如何運用 Gemini CLI 的指令介面，整合各種 API 服務、設定對話流程、並打造出能夠自動處理任務的智慧代理人。無論您是開發者、產品經理，或是對 AI 應用感興趣的技術愛好者，都能從中獲得實用的技能，立即將 AI Agent 應用到日常工作流程中。議程將涵蓋 Gemini CLI 的核心功能、實際應用場景，以及最佳實踐經驗分享。",
+        "title": "使用 Gemini CLI 打造無程式碼的 AI Agent 代理人"
+      },
+      "zh": {
+        "description": "在這個議程中，我將帶領大家探索 Google 的 Gemini CLI 工具，展示如何在不撰寫任何程式碼的情況下，快速建立功能強大的 AI Agent 代理人。透過實際示範，您將學習如何運用 Gemini CLI 的指令介面，整合各種 API 服務、設定對話流程、並打造出能夠自動處理任務的智慧代理人。無論您是開發者、產品經理，或是對 AI 應用感興趣的技術愛好者，都能從中獲得實用的技能，立即將 AI Agent 應用到日常工作流程中。議程將涵蓋 Gemini CLI 的核心功能、實際應用場景，以及最佳實踐經驗分享。",
+        "title": "使用 Gemini CLI 打造無程式碼的 AI Agent 代理人"
+      }
+    },
+    {
+      "id": "1040411",
+      "start": "2025-11-30T14:40:00+08:00",
+      "end": "2025-11-30T15:20:00+08:00",
+      "language": "中文",
+      "room": "71449",
+      "speakers": ["6746e447-798f-4c2d-8107-1fd5ecb7d4c2"],
+      "tags": ["394316", "394315"],
+      "type": "297889",
+      "en": {
+        "description": "Firebase AI Logic 讓使用者直接在前端呼叫 Gemini API，安全整合 App Check 與 Proxy，不需後端即可打造低延遲、可互動的生成式 AI 應用。支援多平台 SDK，快速上手、彈性高。",
+        "title": "Firebase AI Logic 前端直連的 AI 體驗"
+      },
+      "zh": {
+        "description": "Firebase AI Logic 讓使用者直接在前端呼叫 Gemini API，安全整合 App Check 與 Proxy，不需後端即可打造低延遲、可互動的生成式 AI 應用。支援多平台 SDK，快速上手、彈性高。",
+        "title": "Firebase AI Logic 前端直連的 AI 體驗"
+      }
+    },
+    {
+      "id": "1069202",
+      "start": "2025-11-30T15:30:00+08:00",
+      "end": "2025-11-30T17:00:00+08:00",
+      "language": "中文",
+      "room": "71449",
+      "speakers": [
+        "82d4c89c-1f25-42ce-84b4-f7647f8c5ccc",
+        "0435ba43-587b-4b35-bc8e-e3c688e70600"
+      ],
+      "tags": ["394314", "394316", "394317", "394324", "411193"],
+      "type": "297889",
+      "en": {
+        "description": "Flutter 和 Firebase Studio 的 Agent Mode 協作\r\n\r\n當開發者可以只剩 10% 在寫程式碼時，可以做什麼？過去應該不會有人想到過有一種東西叫「開發者體驗」，從「情境工程（Context engineerin)」轉化為  「規格驅動 (Specification-Driven)」時，AI Coding 變得似乎沒有那麼的不可控，再有 MCP 的介面讓 Firebase Studio 能代理協助部署 Flutter Web App 到 Hosting 做為網站對外公開。\r\n這次的工作坊將帶著大家和 Agent 一起協作建立專案到部署，並讓大家認識 Agent 的限制。",
+        "title": "從規格與代理部署的圓舞曲"
+      },
+      "zh": {
+        "description": "Flutter 和 Firebase Studio 的 Agent Mode 協作\r\n\r\n當開發者可以只剩 10% 在寫程式碼時，可以做什麼？過去應該不會有人想到過有一種東西叫「開發者體驗」，從「情境工程（Context engineerin)」轉化為  「規格驅動 (Specification-Driven)」時，AI Coding 變得似乎沒有那麼的不可控，再有 MCP 的介面讓 Firebase Studio 能代理協助部署 Flutter Web App 到 Hosting 做為網站對外公開。\r\n這次的工作坊將帶著大家和 Agent 一起協作建立專案到部署，並讓大家認識 Agent 的限制。",
+        "title": "從規格與代理部署的圓舞曲"
+      }
+    },
+    {
+      "id": "6e5a092c-16b8-4ea0-9e21-f5a73757fe01",
+      "start": "2025-11-30T17:20:00+08:00",
+      "end": "2025-11-30T18:00:00+08:00",
+      "language": "中文",
+      "room": "71449",
+      "speakers": [],
+      "tags": [],
+      "type": "297889",
+      "en": { "description": "  ", "title": "閉幕 Ending" },
+      "zh": { "description": "  ", "title": "閉幕 Ending" }
+    },
+    {
+      "id": "1023941",
+      "start": "2025-11-30T10:30:00+08:00",
+      "end": "2025-11-30T11:10:00+08:00",
+      "language": "中文",
+      "room": "71450",
+      "speakers": ["48ecd2e5-51c3-4aec-99d4-0fa0718f92e8"],
+      "tags": ["394314", "394323"],
+      "type": "297889",
+      "en": {
+        "description": "你擔心你的AI Agent被拿來免費寫程式解數學作業嗎? 害怕你的AI Agent講出不該講的話嗎? 來看看Google Cloud提供了哪些服務來幫你消災解難",
+        "title": "保護你的AI應用程式 - Model Armor and more..."
+      },
+      "zh": {
+        "description": "你擔心你的AI Agent被拿來免費寫程式解數學作業嗎? 害怕你的AI Agent講出不該講的話嗎? 來看看Google Cloud提供了哪些服務來幫你消災解難",
+        "title": "保護你的AI應用程式 - Model Armor and more..."
+      }
+    },
+    {
+      "id": "1048349",
+      "start": "2025-11-30T11:20:00+08:00",
+      "end": "2025-11-30T12:00:00+08:00",
+      "language": "中文",
+      "room": "71450",
+      "speakers": ["c51ad79a-30cb-4d43-931f-18481812eded"],
+      "tags": ["394315", "411193"],
+      "type": "297889",
+      "en": {
+        "description": "在 AI 編程時代，開發者常陷入「Vibe Coding」的困境，與 AI 對話像猜謎、程式碼品質不穩定、專案意圖難以追溯。本次議程將介紹 GitHub 推出的開源工具 Spec Kit，將如何結合 Gemini CLI 實踐規格驅動開發（Spec-Driven Development）。",
+        "title": "Gemini CLI X Spec Kit  重新定義 AI 協作開發"
+      },
+      "zh": {
+        "description": "在 AI 編程時代，開發者常陷入「Vibe Coding」的困境，與 AI 對話像猜謎、程式碼品質不穩定、專案意圖難以追溯。本次議程將介紹 GitHub 推出的開源工具 Spec Kit，將如何結合 Gemini CLI 實踐規格驅動開發（Spec-Driven Development）。",
+        "title": "Gemini CLI X Spec Kit  重新定義 AI 協作開發"
+      }
+    },
+    {
+      "id": "1046205",
+      "start": "2025-11-30T13:00:00+08:00",
+      "end": "2025-11-30T13:40:00+08:00",
+      "language": "中文",
+      "room": "71450",
+      "speakers": ["ca62eae7-f1f1-42eb-83b8-78674b1ee4b9"],
+      "tags": ["394314", "394315"],
+      "type": "297889",
+      "en": {
+        "description": "在日常工作中，會議數量龐大，傳統的紀錄方式往往耗時低效：一場 1 小時會議，常常需要 2–3 小時才能重播、逐字整理與摘要。本議程將分享如何運用 Fast Whisper (w/Colab GPU)、Google AI Studio 與 Google ADK (Agent Developer Kit)，打造一套 自動化會議記錄系統，讓「錄音 → 逐字稿 → 重點摘要 → 行動清單」全流程自動完成。\r\n透過三個版本的演進（V1 工程師工具 → V2 使用者友善 → V3 全自動化流水線），我們將展示如何把生成式 AI 從 Demo 變成能在團隊落地的日常工具，並實際分享如何將會議處理效率提升超過 10 倍。",
+        "title": "From Audio to Actionable Knowledge：用 ADK + Gemini 打造會議記錄助手"
+      },
+      "zh": {
+        "description": "在日常工作中，會議數量龐大，傳統的紀錄方式往往耗時低效：一場 1 小時會議，常常需要 2–3 小時才能重播、逐字整理與摘要。本議程將分享如何運用 Fast Whisper (w/Colab GPU)、Google AI Studio 與 Google ADK (Agent Developer Kit)，打造一套 自動化會議記錄系統，讓「錄音 → 逐字稿 → 重點摘要 → 行動清單」全流程自動完成。\r\n透過三個版本的演進（V1 工程師工具 → V2 使用者友善 → V3 全自動化流水線），我們將展示如何把生成式 AI 從 Demo 變成能在團隊落地的日常工具，並實際分享如何將會議處理效率提升超過 10 倍。",
+        "title": "From Audio to Actionable Knowledge：用 ADK + Gemini 打造會議記錄助手"
+      }
+    },
+    {
+      "id": "1047521",
+      "start": "2025-11-30T13:50:00+08:00",
+      "end": "2025-11-30T14:30:00+08:00",
+      "language": "中文",
+      "room": "71450",
+      "speakers": [
+        "713d90dd-1415-482a-a088-cac6d4abd25d",
+        "f01958cd-5c8c-41e0-9b5f-a0df510a20f0"
+      ],
+      "tags": ["394315", "394329"],
+      "type": "297889",
+      "en": {
+        "description": "在多雲與分散式架構下，監控與告警已不足以保障系統可用性。本場分享示範如何以 GCP 原生服務（Cloud Logging、Monitoring、Pub/Sub、Cloud Functions、Workflows、Vertex AI、BigQuery、Looker Studio）構建「偵測 → 分析 → 修復 → 知識回饋」的智能運維自動修復 Agent。內容涵蓋事件驅動架構、ML 在 root-cause 與修復建議的應用、漸進式上線策略（shadow → 半自動 → canary → 全自動）與安全/稽核設計。參與者將取得可落地的 AIOps 實作藍圖，幫助團隊降低 MTTR、提升自動化比例與運維掌握度。",
+        "title": "GCP 智能運維自動修復 Agent"
+      },
+      "zh": {
+        "description": "在多雲與分散式架構下，監控與告警已不足以保障系統可用性。本場分享示範如何以 GCP 原生服務（Cloud Logging、Monitoring、Pub/Sub、Cloud Functions、Workflows、Vertex AI、BigQuery、Looker Studio）構建「偵測 → 分析 → 修復 → 知識回饋」的智能運維自動修復 Agent。內容涵蓋事件驅動架構、ML 在 root-cause 與修復建議的應用、漸進式上線策略（shadow → 半自動 → canary → 全自動）與安全/稽核設計。參與者將取得可落地的 AIOps 實作藍圖，幫助團隊降低 MTTR、提升自動化比例與運維掌握度。",
+        "title": "GCP 智能運維自動修復 Agent"
+      }
+    },
+    {
+      "id": "1024005",
+      "start": "2025-11-30T14:40:00+08:00",
+      "end": "2025-11-30T15:20:00+08:00",
+      "language": "中文",
+      "room": "71450",
+      "speakers": ["e964b091-45b0-41e5-92ed-92cef687abb2"],
+      "tags": ["394314", "394315", "394679", "411193"],
+      "type": "297889",
+      "en": {
+        "description": "在生成式 AI 全面進入企業主戰場的時代，單一模型、單一應用的思維已無法支撐組織的創新速度與日益複雜的任務需求。真正能驅動企業數位競爭力的關鍵，不再是「擁有 AI」，而是如何打造一支可協作、可擴展、具自我強化能力的 AI Agent 團隊（AI Team）。\r\n\r\n這個 AI Agent 團隊不僅包含「主管模型」與「員工模型」的分層設計，更強調角色導向與職能自治的協作模式。每一個 AI Agent 都是特定領域的專家，能根據任務背景和擁有的工具，自我調整策略、分配任務、協同決策，最終形成一個具備溝通與執行能力的 Multi-Agent System。\r\n\r\n本場分享將以 Google ADK（Agent Development Kit）開源框架與 Gemini CLI 為核心，從「AI Agent 團隊設計」的視角切入，深入解析以下議題：\r\n\r\n* 如何以 ADK 架構，快速構建多角色、多模組的 AI Agent 生態\r\n* 運用 Gemini CLI 作為主管工作環境，理解如何使用 Gemini CLI Extension 指揮員工進行工作任務\r\n* 透過架構設計和思維，將企業內部資料、API 及業務流程整合至 AI Agent 環境中，形成「可運作的數位組織」\r\n* 以「AI 為團隊成員」的架構觀點，重塑企業營運邏輯與知識流\r\n\r\n透過實際案例與架構示範，參與者將深入理解如何運用 Google 雙核心技術，從 Single Agent ，邁向 Multi Agents 協作，打造出真正能與人類團隊共創價值的 AI 工作系統。\r\n\r\n（請注意：本次內容可能會依照近期技術變化做修正，依照現場演講內容為準）",
+        "title": "透過 Google ADK 和 Gemini CLI 來打造人類與 AI Agent 團隊協同工作模式"
+      },
+      "zh": {
+        "description": "在生成式 AI 全面進入企業主戰場的時代，單一模型、單一應用的思維已無法支撐組織的創新速度與日益複雜的任務需求。真正能驅動企業數位競爭力的關鍵，不再是「擁有 AI」，而是如何打造一支可協作、可擴展、具自我強化能力的 AI Agent 團隊（AI Team）。\r\n\r\n這個 AI Agent 團隊不僅包含「主管模型」與「員工模型」的分層設計，更強調角色導向與職能自治的協作模式。每一個 AI Agent 都是特定領域的專家，能根據任務背景和擁有的工具，自我調整策略、分配任務、協同決策，最終形成一個具備溝通與執行能力的 Multi-Agent System。\r\n\r\n本場分享將以 Google ADK（Agent Development Kit）開源框架與 Gemini CLI 為核心，從「AI Agent 團隊設計」的視角切入，深入解析以下議題：\r\n\r\n* 如何以 ADK 架構，快速構建多角色、多模組的 AI Agent 生態\r\n* 運用 Gemini CLI 作為主管工作環境，理解如何使用 Gemini CLI Extension 指揮員工進行工作任務\r\n* 透過架構設計和思維，將企業內部資料、API 及業務流程整合至 AI Agent 環境中，形成「可運作的數位組織」\r\n* 以「AI 為團隊成員」的架構觀點，重塑企業營運邏輯與知識流\r\n\r\n透過實際案例與架構示範，參與者將深入理解如何運用 Google 雙核心技術，從 Single Agent ，邁向 Multi Agents 協作，打造出真正能與人類團隊共創價值的 AI 工作系統。\r\n\r\n（請注意：本次內容可能會依照近期技術變化做修正，依照現場演講內容為準）",
+        "title": "透過 Google ADK 和 Gemini CLI 來打造人類與 AI Agent 團隊協同工作模式"
+      }
+    },
+    {
+      "id": "1073960",
+      "start": "2025-11-30T15:30:00+08:00",
+      "end": "2025-11-30T17:00:00+08:00",
+      "language": "中文",
+      "room": "71450",
+      "speakers": ["29e9ee2f-e316-4829-bdb9-2fafdf7f3e8c"],
+      "tags": ["394314", "394316", "394315"],
+      "type": "297889",
+      "en": {
+        "description": "​利用 Gemini Nana (gemini-2.5-flash-image) 獨有的圖像一致性維持能力，鎖定並維護角色的視覺 DNA。\r\n​設計一個專門維持角色視覺一致性的 System Instruction 和 提示詞策略。\r\n​實作一個可接受指令，輸出連貫系列圖像的 AI 代理人，並使用 Gemini CLI 協同優化。",
+        "title": "🎨 IP 視覺DNA的編碼術： 使用 Nano Banana 鑄造一致性角色的應用代理"
+      },
+      "zh": {
+        "description": "​利用 Gemini Nana (gemini-2.5-flash-image) 獨有的圖像一致性維持能力，鎖定並維護角色的視覺 DNA。\r\n​設計一個專門維持角色視覺一致性的 System Instruction 和 提示詞策略。\r\n​實作一個可接受指令，輸出連貫系列圖像的 AI 代理人，並使用 Gemini CLI 協同優化。",
+        "title": "🎨 IP 視覺DNA的編碼術： 使用 Nano Banana 鑄造一致性角色的應用代理"
+      }
+    },
+    {
+      "id": "1048200",
+      "start": "2025-11-30T10:30:00+08:00",
+      "end": "2025-11-30T11:10:00+08:00",
+      "language": "中文",
+      "room": "71451",
+      "speakers": ["6a2bb931-6f51-4e37-b907-b12a17eb4745"],
+      "tags": ["394317", "394315"],
+      "type": "297889",
+      "en": {
+        "description": "兩個月、18 萬行程式碼、一個人加一個 AI Agent，從零開始打造出真的可以運作的銷售電商平台 ezBundle。這不是科幻故事，而是 2025 年真實發生的開發經驗。我將分享我如何運用 AI 工具，在下班與假日時間獨立完成包含會員系統、金流整合、票券管理、發票處理等完整功能的 SaaS 平台。",
+        "title": "宅宅自以為的浪漫：跟 AI 一起為自己辦的研討會寫一個售票系統"
+      },
+      "zh": {
+        "description": "兩個月、18 萬行程式碼、一個人加一個 AI Agent，從零開始打造出真的可以運作的銷售電商平台 ezBundle。這不是科幻故事，而是 2025 年真實發生的開發經驗。我將分享我如何運用 AI 工具，在下班與假日時間獨立完成包含會員系統、金流整合、票券管理、發票處理等完整功能的 SaaS 平台。",
+        "title": "宅宅自以為的浪漫：跟 AI 一起為自己辦的研討會寫一個售票系統"
+      }
+    },
+    {
+      "id": "1045132",
+      "start": "2025-11-30T11:20:00+08:00",
+      "end": "2025-11-30T12:00:00+08:00",
+      "language": "中文",
+      "room": "71451",
+      "speakers": ["ededcdda-e0a5-47c9-8adc-34f759ea2271"],
+      "tags": ["394317", "394315", "394322"],
+      "type": "297889",
+      "en": {
+        "description": "Google Chrome 瀏覽器在 138 版後開始內建了代號 Gemini Nano 的 LLM AI 模型，並透過多項 API 開放給開發者使用，這讓前端開發 AI 應用程式多了一個全新的選擇！開發者可以利用這些內建 AI API，直接在前端實現即時翻譯、多語內容摘要、自動撰寫與改寫等智慧功能，而無需依賴雲端服務，本次演講將介紹一個純前端開發人員如何有機會透過 Gemini Nao 開發各種 AI 應用程式，為網站帶來更快速、創新且以使用者為中心的體驗。",
+        "title": "純前端也能搞 AI？Gemini Nano 簡介"
+      },
+      "zh": {
+        "description": "Google Chrome 瀏覽器在 138 版後開始內建了代號 Gemini Nano 的 LLM AI 模型，並透過多項 API 開放給開發者使用，這讓前端開發 AI 應用程式多了一個全新的選擇！開發者可以利用這些內建 AI API，直接在前端實現即時翻譯、多語內容摘要、自動撰寫與改寫等智慧功能，而無需依賴雲端服務，本次演講將介紹一個純前端開發人員如何有機會透過 Gemini Nao 開發各種 AI 應用程式，為網站帶來更快速、創新且以使用者為中心的體驗。",
+        "title": "純前端也能搞 AI？Gemini Nano 簡介"
+      }
+    },
+    {
+      "id": "1056287",
+      "start": "2025-11-30T13:00:00+08:00",
+      "end": "2025-11-30T13:40:00+08:00",
+      "language": "English",
+      "room": "71451",
+      "speakers": ["6a2b6e0f-4e1e-4068-b446-5574567ec7ce"],
+      "tags": ["394316", "394315"],
+      "type": "297889",
+      "en": {
+        "description": "Stop guessing about AI features and start building strategically. This session offers a practical guide for developers, moving you from initial ideas to deployable features. We'll cover how to define effective use cases, navigate the critical model selection trade-offs (cost, latency, and accuracy), and understand the architecture for implementation. You'll learn the full-stack approach for securely integrating the Gemini API using Firebase AI Logic—protecting your keys while bringing powerful intelligence to your application.",
+        "title": "AI Dev Strategy: Firebase and Gemini"
+      },
+      "zh": {
+        "description": "Stop guessing about AI features and start building strategically. This session offers a practical guide for developers, moving you from initial ideas to deployable features. We'll cover how to define effective use cases, navigate the critical model selection trade-offs (cost, latency, and accuracy), and understand the architecture for implementation. You'll learn the full-stack approach for securely integrating the Gemini API using Firebase AI Logic—protecting your keys while bringing powerful intelligence to your application.",
+        "title": "AI Dev Strategy: Firebase and Gemini"
+      }
+    },
+    {
+      "id": "1047852",
+      "start": "2025-11-30T13:50:00+08:00",
+      "end": "2025-11-30T14:30:00+08:00",
+      "language": "English",
+      "room": "71451",
+      "speakers": ["223a6e79-7441-42ad-9993-c54c559dcdb6"],
+      "tags": ["394315"],
+      "type": "297889",
+      "en": {
+        "description": "In this hands-on session, we'll dive into AI-driven healthcare solutions by building a Chest X-ray analysis application using TensorFlow and Grad-CAM. You’ll walk through the entire process, learn how to harness deep learning models to detect potential abnormalities in medical images, enhancing diagnostic tools for healthcare professionals. \r\n\r\nThis workshop is designed to be interactive, so participants will have the opportunity to apply these techniques themselves and walk away with a better understanding of how AI can transform healthcare. And you're encouraged to bring your own laptop to join the session, because this session offers a complete, step-by-step experience - from setting up your Google Colab environment, preparing real-world datasets, training the model, to visualizing the results.\r\n\r\nWhether you’re passionate about AI, healthcare, or both - this is your chance to explore the intersection of technology and medicine through code, models, and meaning.",
+        "title": "Hands-on AI for Smart Medical Imaging"
+      },
+      "zh": {
+        "description": "In this hands-on session, we'll dive into AI-driven healthcare solutions by building a Chest X-ray analysis application using TensorFlow and Grad-CAM. You’ll walk through the entire process, learn how to harness deep learning models to detect potential abnormalities in medical images, enhancing diagnostic tools for healthcare professionals. \r\n\r\nThis workshop is designed to be interactive, so participants will have the opportunity to apply these techniques themselves and walk away with a better understanding of how AI can transform healthcare. And you're encouraged to bring your own laptop to join the session, because this session offers a complete, step-by-step experience - from setting up your Google Colab environment, preparing real-world datasets, training the model, to visualizing the results.\r\n\r\nWhether you’re passionate about AI, healthcare, or both - this is your chance to explore the intersection of technology and medicine through code, models, and meaning.",
+        "title": "Hands-on AI for Smart Medical Imaging"
+      }
+    },
+    {
+      "id": "1025095",
+      "start": "2025-11-30T14:40:00+08:00",
+      "end": "2025-11-30T15:20:00+08:00",
+      "language": "English",
+      "room": "71451",
+      "speakers": ["e2c238da-ccae-4220-8ba0-92937ba4256b"],
+      "tags": ["394313", "394316", "394324"],
+      "type": "297889",
+      "en": {
+        "description": "Ever wanted to bring real-time AI conversations into your Flutter app? In this talk, we’ll explore how to integrate Gemini LiveAPI with Flutter using the firebase_ai package (and its related tools). You’ll learn how to build a chatbot that not only chats with Gemini AI but also responds back with real-time voice. By the end, you’ll see how to turn your Flutter app into an interactive, voice-enabled AI experience",
+        "title": "Gemini LiveAPI for a Flutter App"
+      },
+      "zh": {
+        "description": "Ever wanted to bring real-time AI conversations into your Flutter app? In this talk, we’ll explore how to integrate Gemini LiveAPI with Flutter using the firebase_ai package (and its related tools). You’ll learn how to build a chatbot that not only chats with Gemini AI but also responds back with real-time voice. By the end, you’ll see how to turn your Flutter app into an interactive, voice-enabled AI experience",
+        "title": "Gemini LiveAPI for a Flutter App"
+      }
+    },
+    {
+      "id": "1048728",
+      "start": "2025-11-30T15:30:00+08:00",
+      "end": "2025-11-30T17:00:00+08:00",
+      "language": "English",
+      "room": "71451",
+      "speakers": ["744622fb-9b57-42b0-87ab-7b7254b39ea4"],
+      "tags": ["394314", "394315", "394329", "411193"],
+      "type": "297889",
+      "en": {
+        "description": "As developers, we often spend time on repetitive tasks like switching contexts, writing boilerplate code, and understanding complex codebases. To tackle this, a new wave of AI tools offers powerful capabilities directly in our command line.\r\n\r\nThis session offers a practical guide to the Gemini CLI, a command-line utility that integrates Gemini models into our local development environment.\r\n\r\n In this session, you will learn how to:\r\n- Install and configure the Gemini CLI for your projects\r\n- Customize the CLI with your own commands and project-specific context\r\n- Enhance the CLI's capabilities by integrating it with various tools using Model Context Protocol (MCP) servers\r\n- Deploying an application to Google Cloud Platform using the CLI\r\n\r\n\r\nTarget Audience:\r\nThis talk is designed for anyone who codes, especially beneficial for developers, data scientists, and machine learning engineers at all levels of experience. It focuses on using generative AI to enhance coding efficiency and support deployment.",
+        "title": "Code and deploy anything with Gemini CLI"
+      },
+      "zh": {
+        "description": "As developers, we often spend time on repetitive tasks like switching contexts, writing boilerplate code, and understanding complex codebases. To tackle this, a new wave of AI tools offers powerful capabilities directly in our command line.\r\n\r\nThis session offers a practical guide to the Gemini CLI, a command-line utility that integrates Gemini models into our local development environment.\r\n\r\n In this session, you will learn how to:\r\n- Install and configure the Gemini CLI for your projects\r\n- Customize the CLI with your own commands and project-specific context\r\n- Enhance the CLI's capabilities by integrating it with various tools using Model Context Protocol (MCP) servers\r\n- Deploying an application to Google Cloud Platform using the CLI\r\n\r\n\r\nTarget Audience:\r\nThis talk is designed for anyone who codes, especially beneficial for developers, data scientists, and machine learning engineers at all levels of experience. It focuses on using generative AI to enhance coding efficiency and support deployment.",
+        "title": "Code and deploy anything with Gemini CLI"
+      }
+    },
+    {
+      "id": "1047863",
+      "start": "2025-11-30T10:30:00+08:00",
+      "end": "2025-11-30T11:10:00+08:00",
+      "language": "中文",
+      "room": "71455",
+      "speakers": ["c0a05ef4-b87d-468d-8f27-c55103d4c526"],
+      "tags": ["394314", "394315"],
+      "type": "297889",
+      "en": {
+        "description": "保險業務培訓難在「真實對話」「一致評分」與「可稽核」。本場分享 AI 教練平台：以 Cloud Run＋Cloud SQL 為基礎，結合 Vertex AI 與 RAG/GraphRAG，產生擬真客戶與教練回饋，並以遊戲化任務驅動進步。重點包含：三角色設計（客戶 AI、教練 AI、內容生成）、稽核留痕、可回顧的學習歷程、敏感資訊處理，以及在企業合規下的量化成效。以真實案例示範從試點到擴散的導入路徑。",
+        "title": "AI 教練：保險業務訓練"
+      },
+      "zh": {
+        "description": "保險業務培訓難在「真實對話」「一致評分」與「可稽核」。本場分享 AI 教練平台：以 Cloud Run＋Cloud SQL 為基礎，結合 Vertex AI 與 RAG/GraphRAG，產生擬真客戶與教練回饋，並以遊戲化任務驅動進步。重點包含：三角色設計（客戶 AI、教練 AI、內容生成）、稽核留痕、可回顧的學習歷程、敏感資訊處理，以及在企業合規下的量化成效。以真實案例示範從試點到擴散的導入路徑。",
+        "title": "AI 教練：保險業務訓練"
+      }
+    },
+    {
+      "id": "1048274",
+      "start": "2025-11-30T11:20:00+08:00",
+      "end": "2025-11-30T12:00:00+08:00",
+      "language": "中文",
+      "room": "71455",
+      "speakers": ["55c4d43e-e1dc-4924-b4eb-15c59a5affdc"],
+      "tags": ["394315", "394324"],
+      "type": "297889",
+      "en": {
+        "description": "Flutter 引擎本身不包括音訊處理的能力，而是需要仰賴各平台上的 plugin 介接原生的播放與錄音 API。在這場分享中，會提到如何在 iOS/Android 平台上播放與錄製音訊，以及目前各種 plugin 分別介接了哪些 API。最後分享怎樣使用即時錄音與播放串接 Google 的 Gemini Live API。",
+        "title": "Flutter App 中的音訊處理"
+      },
+      "zh": {
+        "description": "Flutter 引擎本身不包括音訊處理的能力，而是需要仰賴各平台上的 plugin 介接原生的播放與錄音 API。在這場分享中，會提到如何在 iOS/Android 平台上播放與錄製音訊，以及目前各種 plugin 分別介接了哪些 API。最後分享怎樣使用即時錄音與播放串接 Google 的 Gemini Live API。",
+        "title": "Flutter App 中的音訊處理"
+      }
+    },
+    {
+      "id": "1044882",
+      "start": "2025-11-30T13:00:00+08:00",
+      "end": "2025-11-30T13:40:00+08:00",
+      "language": "中文",
+      "room": "71455",
+      "speakers": ["7c9808c7-5ea4-4f1e-a13c-9078a567801c"],
+      "tags": ["394313", "394325", "411193"],
+      "type": "297889",
+      "en": {
+        "description": "這場議程，就是我這趟旅程的學習筆記。\r\n我將分享三個關鍵的里程碑：\r\n第一站，我們將從 GKI Kernel 的宏觀設計出發，理解 Google 如何為 Android 核心打造統一的未來；\r\n第二站，我們將深入硬核的工程實踐，學習透過非官方的方法從零到一編譯 SM8550 BSP；\r\n最終，我將這些經驗，應用在一個充滿挑戰與樂趣的目標上：Hack Pixel Watch 2。\r\n這不只是一場技術分享，更是一份 AOSP 的學習路線圖。歡迎您加入我的行列，一窺 Android 系統底層的奧秘與樂趣。",
+        "title": "過去一年我在 AOSP 學了什麼：GKI, BSP, Hack Pixel Watch 2"
+      },
+      "zh": {
+        "description": "這場議程，就是我這趟旅程的學習筆記。\r\n我將分享三個關鍵的里程碑：\r\n第一站，我們將從 GKI Kernel 的宏觀設計出發，理解 Google 如何為 Android 核心打造統一的未來；\r\n第二站，我們將深入硬核的工程實踐，學習透過非官方的方法從零到一編譯 SM8550 BSP；\r\n最終，我將這些經驗，應用在一個充滿挑戰與樂趣的目標上：Hack Pixel Watch 2。\r\n這不只是一場技術分享，更是一份 AOSP 的學習路線圖。歡迎您加入我的行列，一窺 Android 系統底層的奧秘與樂趣。",
+        "title": "過去一年我在 AOSP 學了什麼：GKI, BSP, Hack Pixel Watch 2"
+      }
+    },
+    {
+      "id": "1049108",
+      "start": "2025-11-30T13:50:00+08:00",
+      "end": "2025-11-30T14:30:00+08:00",
+      "language": "中文",
+      "room": "71455",
+      "speakers": ["3a6bdfde-22f7-4708-b1be-c3f5881d3a7b"],
+      "tags": ["394313", "394325", "411193"],
+      "type": "297889",
+      "en": {
+        "description": "KraftShade 是一個高性能的 OpenGL ES 圖形渲染函式庫，提供 Kotlin-first 的抽象，旨在解決舊有工具（如 GPUImage）僵硬的濾鏡鏈架構 和缺乏現代語言支持的問題。\r\n本次議程將是一次對 OpenGL 函式庫的深度解密。我們將闡述 KraftShade 的靈活管線架構如何實現可組合的效果，並透過 Pipeline DSL 實現複雜的多重渲染和紋理重用（Graph Pipeline）。\r\n最核心的內容是揭示：「我們是怎麼讓特效‘動’起來的」。這項黑科技來自內部輸入系統的設計。我們將深入剖析 SampledInput 如何與管線執行流程 (Pipeline Running Flow) 協同作用，確保參數值在每一幀渲染時都能即時同步，實現流暢、響應式的時間基或手勢驅動動畫。這項設計對於追求高性能動態視覺效果的開發者至關重要。",
+        "title": "Kraftshade 大解密：我們是怎麼讓 Android 特效“動”起來的"
+      },
+      "zh": {
+        "description": "KraftShade 是一個高性能的 OpenGL ES 圖形渲染函式庫，提供 Kotlin-first 的抽象，旨在解決舊有工具（如 GPUImage）僵硬的濾鏡鏈架構 和缺乏現代語言支持的問題。\r\n本次議程將是一次對 OpenGL 函式庫的深度解密。我們將闡述 KraftShade 的靈活管線架構如何實現可組合的效果，並透過 Pipeline DSL 實現複雜的多重渲染和紋理重用（Graph Pipeline）。\r\n最核心的內容是揭示：「我們是怎麼讓特效‘動’起來的」。這項黑科技來自內部輸入系統的設計。我們將深入剖析 SampledInput 如何與管線執行流程 (Pipeline Running Flow) 協同作用，確保參數值在每一幀渲染時都能即時同步，實現流暢、響應式的時間基或手勢驅動動畫。這項設計對於追求高性能動態視覺效果的開發者至關重要。",
+        "title": "Kraftshade 大解密：我們是怎麼讓 Android 特效“動”起來的"
+      }
+    },
+    {
+      "id": "1042116",
+      "start": "2025-11-30T14:40:00+08:00",
+      "end": "2025-11-30T15:20:00+08:00",
+      "language": "中文",
+      "room": "71455",
+      "speakers": ["2ab7a51f-5d46-4e5e-b9f1-53df68697012"],
+      "tags": ["394313", "394315", "394325", "411193"],
+      "type": "297889",
+      "en": {
+        "description": "將從兩個角度詮釋這個命題：\r\n1. On Device Model 和遠端的 Large Model 分工協作； \r\n2. 文字和圖片的 Multimodal 的混合處理；\r\n最終目標是實現保護隱私，減少 Token 消耗，Local First，打造一個有趣務實的訂閱處理助手。",
+        "title": "包山包海的 Agents on Mobile"
+      },
+      "zh": {
+        "description": "將從兩個角度詮釋這個命題：\r\n1. On Device Model 和遠端的 Large Model 分工協作； \r\n2. 文字和圖片的 Multimodal 的混合處理；\r\n最終目標是實現保護隱私，減少 Token 消耗，Local First，打造一個有趣務實的訂閱處理助手。",
+        "title": "包山包海的 Agents on Mobile"
+      }
+    },
+    {
+      "id": "1046942",
+      "start": "2025-11-30T15:30:00+08:00",
+      "end": "2025-11-30T17:00:00+08:00",
+      "language": "English",
+      "room": "71455",
+      "speakers": ["b68f5688-528b-457e-bec1-01340ad3b68c"],
+      "tags": ["394314", "394315"],
+      "type": "297889",
+      "en": {
+        "description": "In this hands-on workshop, you'll build an AI-powered application that generates personalised learning materials using Google's Gemini Pro model. By specifying a topic, learning style (visual, auditory, kinesthetic), and desired output (summary, quiz, examples), participants will create dynamic educational content tailored to individual needs.\r\n\r\nThis session will guide you through prompt engineering techniques, AI content adaptation, and deployment on Google Cloud, showcasing how generative AI can transform learning experiences.",
+        "title": "Build Your Own AI-Powered Learning Assistant with Gemini"
+      },
+      "zh": {
+        "description": "In this hands-on workshop, you'll build an AI-powered application that generates personalised learning materials using Google's Gemini Pro model. By specifying a topic, learning style (visual, auditory, kinesthetic), and desired output (summary, quiz, examples), participants will create dynamic educational content tailored to individual needs.\r\n\r\nThis session will guide you through prompt engineering techniques, AI content adaptation, and deployment on Google Cloud, showcasing how generative AI can transform learning experiences.",
+        "title": "Build Your Own AI-Powered Learning Assistant with Gemini"
+      }
+    },
+    {
+      "id": "1047544",
+      "start": "2025-11-30T13:00:00+08:00",
+      "end": "2025-11-30T13:40:00+08:00",
+      "language": "中文",
+      "room": "71452",
+      "speakers": ["c7ec1277-44f7-45f2-89d7-d842ef205a1f"],
+      "tags": ["394315", "411193"],
+      "type": "297889",
+      "en": {
+        "description": "在這場分享中，將帶領聽眾走過 google/gemma-3-270m-it 預訓練過程中的完整經驗，包含如何規劃訓練策略、面對硬體限制時的調整方法，以及在繁體中文應用場景下的實際挑戰與收穫。本議程不僅針對模型開發者，也適合對大型語言模型訓練流程感到好奇的工程師，讓大家能夠理解從理論到實務之間的差距，以及在真實環境下可能遇到的問題與最佳解法。",
+        "title": "從零開始到實戰：Gemma-3-270M 預訓練與應用心得分享"
+      },
+      "zh": {
+        "description": "在這場分享中，將帶領聽眾走過 google/gemma-3-270m-it 預訓練過程中的完整經驗，包含如何規劃訓練策略、面對硬體限制時的調整方法，以及在繁體中文應用場景下的實際挑戰與收穫。本議程不僅針對模型開發者，也適合對大型語言模型訓練流程感到好奇的工程師，讓大家能夠理解從理論到實務之間的差距，以及在真實環境下可能遇到的問題與最佳解法。",
+        "title": "從零開始到實戰：Gemma-3-270M 預訓練與應用心得分享"
+      }
+    },
+    {
+      "id": "1048304",
+      "start": "2025-11-30T13:50:00+08:00",
+      "end": "2025-11-30T14:30:00+08:00",
+      "language": "中文",
+      "room": "71452",
+      "speakers": [
+        "490adfc1-9ce5-4468-a023-3cb424b4fa38",
+        "a548e82d-2330-41f2-ba0c-c9177c98768c"
+      ],
+      "tags": ["394314", "394315", "394323", "411193"],
+      "type": "297889",
+      "en": {
+        "description": "隨著Gemma等大語言模型在企業的應用快速擴張，安全挑戰也從雲端延伸至地端環境。本議程以 「On-Prem & Beyond」 為主軸，提出一套 GEMMA適用的 安全防禦藍圖，協助企業在生成式 AI 的商用落地過程中建立多層次防禦。內容將依四個面向展開：首先解析 雲端 AI 服務的防護機制，包含 API 存取控管與資料隱私設計；其次探討 地端 On-Prem AI 的安全策略，確保效能、合規與敏感資料防護；第三部分聚焦於 大語言模型端的防禦技術，如知識蒸餾、微調與 Guardrail，以抵禦提示詞攻擊與濫用風險；最後則分享 開發者應用層的安全實踐，如何在系統設計與程式開發階段預先內建防護。透過業界真實案例，本場演講將展示企業如何在 GEMMA 家族時代 建構全方位的 AI 安全藍圖，讓 AI 能在雲端與地端並行的架構下，真正成為可信賴的數位中樞。",
+        "title": "Gemma×雲地並行：LLM安全藍圖"
+      },
+      "zh": {
+        "description": "隨著Gemma等大語言模型在企業的應用快速擴張，安全挑戰也從雲端延伸至地端環境。本議程以 「On-Prem & Beyond」 為主軸，提出一套 GEMMA適用的 安全防禦藍圖，協助企業在生成式 AI 的商用落地過程中建立多層次防禦。內容將依四個面向展開：首先解析 雲端 AI 服務的防護機制，包含 API 存取控管與資料隱私設計；其次探討 地端 On-Prem AI 的安全策略，確保效能、合規與敏感資料防護；第三部分聚焦於 大語言模型端的防禦技術，如知識蒸餾、微調與 Guardrail，以抵禦提示詞攻擊與濫用風險；最後則分享 開發者應用層的安全實踐，如何在系統設計與程式開發階段預先內建防護。透過業界真實案例，本場演講將展示企業如何在 GEMMA 家族時代 建構全方位的 AI 安全藍圖，讓 AI 能在雲端與地端並行的架構下，真正成為可信賴的數位中樞。",
+        "title": "Gemma×雲地並行：LLM安全藍圖"
+      }
+    },
+    {
+      "id": "1039121",
+      "start": "2025-11-30T14:40:00+08:00",
+      "end": "2025-11-30T15:20:00+08:00",
+      "language": "中文",
+      "room": "71452",
+      "speakers": ["c3b3504a-c648-44fa-b0b9-12f5e341ff61"],
+      "tags": ["394314", "394315", "394323"],
+      "type": "297889",
+      "en": {
+        "description": "企業或受監管產業中的雲端架構師、資安工程師與專案經理，想學習如何在 Google Cloud 上設計可擴展又安全的 AI 解決方案，同時滿足合規需求的人。",
+        "title": "從零信任到可擴展 AI：在 Google Cloud 打造安全的金融級解決方案"
+      },
+      "zh": {
+        "description": "企業或受監管產業中的雲端架構師、資安工程師與專案經理，想學習如何在 Google Cloud 上設計可擴展又安全的 AI 解決方案，同時滿足合規需求的人。",
+        "title": "從零信任到可擴展 AI：在 Google Cloud 打造安全的金融級解決方案"
+      }
+    },
+    {
+      "id": "1063074",
+      "start": "2025-11-30T15:30:00+08:00",
+      "end": "2025-11-30T17:00:00+08:00",
+      "language": "English",
+      "room": "71452",
+      "speakers": ["010b5826-2430-48eb-8355-7b375b1e87dc"],
+      "tags": ["394317", "394315"],
+      "type": "297889",
+      "en": {
+        "description": "n this hands-on session, you’ll learn how to build and integrate MCP (Model Context Protocol) servers - the bridge that connects AI models with real-world data and functionality. We’ll start by unpacking the fundamentals of MCP and its role in enabling LLMs to interact with APIs. Then, you’ll build your own MCP server as well as a client from scratch, exposing useful capabilities that AI agents can call on demand. By the end, you’ll understand how to transform any API into an AI-ready tool, empowering smarter, more connected applications.",
+        "title": "The MCP Workshop: Turning APIs into AI-Ready Tools"
+      },
+      "zh": {
+        "description": "n this hands-on session, you’ll learn how to build and integrate MCP (Model Context Protocol) servers - the bridge that connects AI models with real-world data and functionality. We’ll start by unpacking the fundamentals of MCP and its role in enabling LLMs to interact with APIs. Then, you’ll build your own MCP server as well as a client from scratch, exposing useful capabilities that AI agents can call on demand. By the end, you’ll understand how to transform any API into an AI-ready tool, empowering smarter, more connected applications.",
+        "title": "The MCP Workshop: Turning APIs into AI-Ready Tools"
+      }
+    },
+    {
+      "id": "1047525",
+      "start": "2025-11-30T13:00:00+08:00",
+      "end": "2025-11-30T13:40:00+08:00",
+      "language": "中文",
+      "room": "71453",
+      "speakers": ["7accccfa-2d45-4372-8f18-ff7272aef039"],
+      "tags": ["394320"],
+      "type": "297889",
+      "en": {
+        "description": "Channel 是 Go 開發者必經的路程，但你是否想過，當我們寫下 ch <- x 或 select { ... } 時，Go Runtime 背後究竟做了什麼？\r\n本場演講將帶你深入 Go 的核心實作，逐步拆解 makechan、chansend、chanrecv 與 selectgo 的原始碼，揭開 channel 如何分配記憶體、維護 buffer、阻塞與喚醒 goroutine，以及 select 為何能公平隨機選擇 case。透過圖解、程式碼與範例，讓你從日常用法一路走到 Runtime 的深處，見識 Go 語言真正的「黑魔法」。",
+        "title": "Go Runtime 黑魔法：Channel 與 Select 的底層祕密"
+      },
+      "zh": {
+        "description": "Channel 是 Go 開發者必經的路程，但你是否想過，當我們寫下 ch <- x 或 select { ... } 時，Go Runtime 背後究竟做了什麼？\r\n本場演講將帶你深入 Go 的核心實作，逐步拆解 makechan、chansend、chanrecv 與 selectgo 的原始碼，揭開 channel 如何分配記憶體、維護 buffer、阻塞與喚醒 goroutine，以及 select 為何能公平隨機選擇 case。透過圖解、程式碼與範例，讓你從日常用法一路走到 Runtime 的深處，見識 Go 語言真正的「黑魔法」。",
+        "title": "Go Runtime 黑魔法：Channel 與 Select 的底層祕密"
+      }
+    },
+    {
+      "id": "1045091",
+      "start": "2025-11-30T13:50:00+08:00",
+      "end": "2025-11-30T14:30:00+08:00",
+      "language": "中文",
+      "room": "71453",
+      "speakers": [
+        "ca09cebf-a468-4723-99fb-cdb1c5fdce51",
+        "5f5ae63f-c9e1-4687-b977-f97973553506"
+      ],
+      "tags": ["394314", "394315", "394320"],
+      "type": "297889",
+      "en": {
+        "description": "本議程將介紹資訊人如何半路出家進入製造業與營建業，從基礎開始理解領域知識與產業運作後，針對組織進行資訊系統再造。\r\n使用Google全家桶(Cloud Run、Cloud Functions、Cloud SQL、Agent Development Kit)打造建築營造業資訊系統現代化的經驗分享。\r\n並分享與學界合作，基於科學方法與現代無伺服器架構解決營運問題的經驗。",
+        "title": "如何使用Google全家桶，打造建築營造業資訊系統現代化"
+      },
+      "zh": {
+        "description": "本議程將介紹資訊人如何半路出家進入製造業與營建業，從基礎開始理解領域知識與產業運作後，針對組織進行資訊系統再造。\r\n使用Google全家桶(Cloud Run、Cloud Functions、Cloud SQL、Agent Development Kit)打造建築營造業資訊系統現代化的經驗分享。\r\n並分享與學界合作，基於科學方法與現代無伺服器架構解決營運問題的經驗。",
+        "title": "如何使用Google全家桶，打造建築營造業資訊系統現代化"
+      }
+    },
+    {
+      "id": "1052048",
+      "start": "2025-11-30T14:40:00+08:00",
+      "end": "2025-11-30T15:20:00+08:00",
+      "language": "中文",
+      "room": "71453",
+      "speakers": ["1b69ca21-ea65-43f3-995d-b07cb2594ce6"],
+      "tags": ["394315", "394326"],
+      "type": "297889",
+      "en": {
+        "description": "本議程將分享如何利用 Gemini 多模態模型的優勢和自行開發的 Model Context Protocol (MCP)，讓 Agent 成為 AEC 產業中真正能打的角色。我們將展示 Agent 如何將手繪概念圖一秒變成 Revit 中的模型，並解析使用者的描述自主建立、執行抽換元件、報告資訊等任務。一起探索如何讓 Gemini 驅動建築設計工作流，往數位轉型更進一步。",
+        "title": "親愛的，我「好像」讓Gemini可以幫忙蓋房子了!!"
+      },
+      "zh": {
+        "description": "本議程將分享如何利用 Gemini 多模態模型的優勢和自行開發的 Model Context Protocol (MCP)，讓 Agent 成為 AEC 產業中真正能打的角色。我們將展示 Agent 如何將手繪概念圖一秒變成 Revit 中的模型，並解析使用者的描述自主建立、執行抽換元件、報告資訊等任務。一起探索如何讓 Gemini 驅動建築設計工作流，往數位轉型更進一步。",
+        "title": "親愛的，我「好像」讓Gemini可以幫忙蓋房子了!!"
+      }
+    },
+    {
+      "id": "1039561",
+      "start": "2025-11-30T15:30:00+08:00",
+      "end": "2025-11-30T17:00:00+08:00",
+      "language": "中文",
+      "room": "71453",
+      "speakers": ["1447a9c7-43d5-48c4-83a5-0d612572072f"],
+      "tags": ["394314", "394316", "394315", "394329"],
+      "type": "297889",
+      "en": {
+        "description": "想快速打造 AI 應用？Firebase Genkit 讓開發 LLM 應用變得優雅又高效。\r\n\r\n本 workshop 用 Genkit + Gemini 打造 AI ChatBot，展示 GenKit 如何解決實際痛點：dotPrompt 讓 Prompt 管理不再是技術債、Developer UI 讓調教過程視覺化、Flow 設計讓複雜邏輯模組化、內建 Trace 讓除錯超簡單。\r\n\r\n你將學到：\r\n✨ Genkit 的核心概念與開發體驗\r\n✨ dotPrompt 的版本控制最佳實踐\r\n✨ 如何利用 Genkit 加速你的 model 選擇以及 prompt tuning\r\n\r\n主要語言使用 TypeScript\r\n參加活動前需確保電腦中已經有 nodejs lts (22 or 24) 版本\r\n以及建議使用 pnpm 作為 package management\r\n\r\n此 Workshop 將以 Discord Bot 為例\r\n請事先確認已經有 Discord 帳號\r\n\r\n最新的 Workshop 訊息以及會後的範例程式碼將會放在\r\nhttps://github.com/neokn/google-devfest-taipei-2025\r\n",
+        "title": "使用 Genkit 以及 Gemini 打造你的 AI Chat Bot"
+      },
+      "zh": {
+        "description": "想快速打造 AI 應用？Firebase Genkit 讓開發 LLM 應用變得優雅又高效。\r\n\r\n本 workshop 用 Genkit + Gemini 打造 AI ChatBot，展示 GenKit 如何解決實際痛點：dotPrompt 讓 Prompt 管理不再是技術債、Developer UI 讓調教過程視覺化、Flow 設計讓複雜邏輯模組化、內建 Trace 讓除錯超簡單。\r\n\r\n你將學到：\r\n✨ Genkit 的核心概念與開發體驗\r\n✨ dotPrompt 的版本控制最佳實踐\r\n✨ 如何利用 Genkit 加速你的 model 選擇以及 prompt tuning\r\n\r\n主要語言使用 TypeScript\r\n參加活動前需確保電腦中已經有 nodejs lts (22 or 24) 版本\r\n以及建議使用 pnpm 作為 package management\r\n\r\n此 Workshop 將以 Discord Bot 為例\r\n請事先確認已經有 Discord 帳號\r\n\r\n最新的 Workshop 訊息以及會後的範例程式碼將會放在\r\nhttps://github.com/neokn/google-devfest-taipei-2025\r\n",
+        "title": "使用 Genkit 以及 Gemini 打造你的 AI Chat Bot"
+      }
+    }
+  ],
+  "speakers": [
+    {
+      "id": "82d4c89c-1f25-42ce-84b4-f7647f8c5ccc",
+      "avatar": "https://sessionize.com/image/72ab-400o400o1-TGTPJATeV1S2dpAFDtZr3E.png",
+      "en": {
+        "bio": "水映工作坊創辦人。於企業中，以資訊顧問、講師等身份投入協助各種跨場域與跨不同領域所需要之軟體整合，亦善用 AI 加速產品開發或是解決零散問題。\r\n\r\n於社群中，是一個愛投入技術研究的 NPC，以 Flutter/Android/Firebase 為主要分享主軸，常出沒於 Google Developer Group Taichung/Taichung 的 Organizer",
+        "name": "Ahdaa"
+      },
+      "zh": {
+        "bio": "水映工作坊創辦人。於企業中，以資訊顧問、講師等身份投入協助各種跨場域與跨不同領域所需要之軟體整合，亦善用 AI 加速產品開發或是解決零散問題。\r\n\r\n於社群中，是一個愛投入技術研究的 NPC，以 Flutter/Android/Firebase 為主要分享主軸，常出沒於 Google Developer Group Taichung/Taichung 的 Organizer",
+        "name": "Ahdaa"
+      }
+    },
+    {
+      "id": "ca62eae7-f1f1-42eb-83b8-78674b1ee4b9",
+      "avatar": "https://sessionize.com/image/f240-400o400o1-GYczHcczk3xq6L7EFn39ks.jpg",
+      "en": {
+        "bio": "目前任職於電商 SaaS 服務公司\r\n曾經在雲端代理商與電信業打滾\r\n專注於 AI/Data 領域，喜歡研究新技術與新服務",
+        "name": "Alice Jian"
+      },
+      "zh": {
+        "bio": "目前任職於電商 SaaS 服務公司\r\n曾經在雲端代理商與電信業打滾\r\n專注於 AI/Data 領域，喜歡研究新技術與新服務",
+        "name": "Alice Jian"
+      }
+    },
+    {
+      "id": "b68f5688-528b-457e-bec1-01340ad3b68c",
+      "avatar": "https://sessionize.com/image/2d65-400o400o1-NQ1Ebu8PwaTKwmHUQp8JHd.png",
+      "en": {
+        "bio": "I am a seasoned IT professional with years of experience in the field. I have extensive experience with Google Cloud Platform (GCP), and currently hold many professional level Google Cloud and other industry certifications. I am also certified in Kubernetes, and have a deep understanding of the core concepts of Kubernetes.\r\n\r\nI am passionate about sharing my knowledge with others by actively participating in GCP community. This also helps me in my own learning and growth in the field.\r\n",
+        "name": "Anupam Phoghat"
+      },
+      "zh": {
+        "bio": "I am a seasoned IT professional with years of experience in the field. I have extensive experience with Google Cloud Platform (GCP), and currently hold many professional level Google Cloud and other industry certifications. I am also certified in Kubernetes, and have a deep understanding of the core concepts of Kubernetes.\r\n\r\nI am passionate about sharing my knowledge with others by actively participating in GCP community. This also helps me in my own learning and growth in the field.\r\n",
+        "name": "Anupam Phoghat"
+      }
+    },
+    {
+      "id": "c3b3504a-c648-44fa-b0b9-12f5e341ff61",
+      "avatar": "https://sessionize.com/image/8e52-400o400o1-EEwaRGUZJpsNoj7LwzKJQc.jpg",
+      "en": {
+        "bio": "資訊服務業PM，專注於企業的數位轉型專案。具備 PMP、雲端解決方案架構師與 ISO 27001 主導稽核員等專業認證，擅長跨雲平台架構整合、合規治理與專案落地。現為 PMI 國際志工與技術社群參與者，致力於推動技術創新與專案管理實務的結合，協助組織在安全與合規的基礎上實現 AI 與雲端的價值。",
+        "name": "Ariel Chang"
+      },
+      "zh": {
+        "bio": "資訊服務業PM，專注於企業的數位轉型專案。具備 PMP、雲端解決方案架構師與 ISO 27001 主導稽核員等專業認證，擅長跨雲平台架構整合、合規治理與專案落地。現為 PMI 國際志工與技術社群參與者，致力於推動技術創新與專案管理實務的結合，協助組織在安全與合規的基礎上實現 AI 與雲端的價值。",
+        "name": "Ariel Chang"
+      }
+    },
+    {
+      "id": "c51ad79a-30cb-4d43-931f-18481812eded",
+      "avatar": "https://sessionize.com/image/997a-400o400o1-NATUQbJSfHjgadDXSmKWCL.jpg",
+      "en": {
+        "bio": "現任微軟最有價值專家，樂於研究與分享新技術，喜歡使用各項網頁技術解決各項問題。主要專研 .NET 相關 Solution 為主，以及 Angular &amp; Vue.js 等前端技術，並在第十二屆 iT 邦幫忙鐵人賽中的 Modern Web 組獲得佳作。於 2022 年出版 ASP.NET Core 6 實戰守則：超易懂的跨平台開發入門教學，並榮登天瓏年度排行第二名",
+        "name": "ATai"
+      },
+      "zh": {
+        "bio": "現任微軟最有價值專家，樂於研究與分享新技術，喜歡使用各項網頁技術解決各項問題。主要專研 .NET 相關 Solution 為主，以及 Angular &amp; Vue.js 等前端技術，並在第十二屆 iT 邦幫忙鐵人賽中的 Modern Web 組獲得佳作。於 2022 年出版 ASP.NET Core 6 實戰守則：超易懂的跨平台開發入門教學，並榮登天瓏年度排行第二名",
+        "name": "ATai"
+      }
+    },
+    {
+      "id": "744622fb-9b57-42b0-87ab-7b7254b39ea4",
+      "avatar": "https://sessionize.com/image/3a15-400o400o1-HiKGwaoR7Uug2Gos7utq7N.png",
+      "en": {
+        "bio": "I'm a Staff Mobile Software Engineer at talabat, the leading food delivery platform in the MENA region (part of Delivery Hero), and a Google Developer Expert in Flutter & Dart. Based in Dubai and originally from Hungary, I combine engineering leadership with a strong focus on mentorship and developer enablement. \r\n\r\nAs a developer community organizer (Flutter Abu Dhabi and Dubai ), I'm passionate about helping startups adopt the right technologies early and scale their engineering practices effectively from the beginning.\r\n\r\nMy current focus is on integrating AI solutions into the Software Developer Life Cycle and building other agentic workflows.\r\n\r\nI enjoy sharing my knowledge by speaking at conferences and meetups, as well as teaching students in Hungary's first Flutter University class. \r\n\r\nIn more detail:\r\n- https://github.com/gerfalcon",
+        "name": "Csongor Vogel"
+      },
+      "zh": {
+        "bio": "I'm a Staff Mobile Software Engineer at talabat, the leading food delivery platform in the MENA region (part of Delivery Hero), and a Google Developer Expert in Flutter & Dart. Based in Dubai and originally from Hungary, I combine engineering leadership with a strong focus on mentorship and developer enablement. \r\n\r\nAs a developer community organizer (Flutter Abu Dhabi and Dubai ), I'm passionate about helping startups adopt the right technologies early and scale their engineering practices effectively from the beginning.\r\n\r\nMy current focus is on integrating AI solutions into the Software Developer Life Cycle and building other agentic workflows.\r\n\r\nI enjoy sharing my knowledge by speaking at conferences and meetups, as well as teaching students in Hungary's first Flutter University class. \r\n\r\nIn more detail:\r\n- https://github.com/gerfalcon",
+        "name": "Csongor Vogel"
+      }
+    },
+    {
+      "id": "f6fb1aa3-f7f6-4d2e-95f9-abec5d5b8a0d",
+      "avatar": "https://sessionize.com/image/f60a-400o400o1-4b433917-bb47-45c8-95f7-21f3581a3244.jpg",
+      "en": { "bio": "TBA", "name": "Edward Chuang" },
+      "zh": { "bio": "TBA", "name": "Edward Chuang" }
+    },
+    {
+      "id": "7c9808c7-5ea4-4f1e-a13c-9078a567801c",
+      "avatar": "https://sessionize.com/image/e165-400o400o1-W9tgm8xByWghnC1bJ4MRy8.jpg",
+      "en": {
+        "bio": "經歷：開源軟體繁體中文化、Android 系統以及 Recovery 開發\r\n現任：\r\nArrow-OS Official Maintainer for ASUS ZenFone 5Z (Z01R)\r\nASUS Official ZenFone Series Insiders\r\nNothing Tech Taiwan Insiders\r\nGoogle Developer Student Clubs @ Chung Yuan Christian University,Taiwan. (中原大學) '23-'24 Lead\r\nL10n Taiwan 臺灣自由開源翻譯 L10N Member\r\nAndroid Apps 繁體中文化工作者\r\nOmniVision_台灣豪威科技有限公司 Test Integration Engineering Intern\r\n\r\n曾任：\r\nASUS ZenFone 5 (2018) Lead Maintainer\r\nArrow-OS Official Maintainer for Xiaomi Pad 5 Pro(elish)\r\ncrDroid / Havoc OS Official Maintainer for ASUS ZenFone 5Z (Z01R)\r\nProject Kaleidoscope Official Maintainer for “Redmi K40 / POCO F3 / Xiaomi 11x (alioth)” & “ASUS ZenFone 8 / ASUS_I006D (sake)”\r\nSkyHawk Recovery Project Official Maintainer for Asus ZenFone 5 (2018)\r\nNokia 8 / 8.1 Lead Maintainer\r\nOnePlus 9R Maintainer\r\nOpenCore Configurator 繁體中文化工作者\r\nSITCON 2021 開放式議程講者《從零開始編譯 Android 第三方系統！》\r\nIntel Taiwan 2nd Campus Ambassador\r\nCOSCUP 2025 議程講者《GKI Kernel: 終結 Android Kernel 的碎片化時代》",
+        "name": "EdwardWu"
+      },
+      "zh": {
+        "bio": "經歷：開源軟體繁體中文化、Android 系統以及 Recovery 開發\r\n現任：\r\nArrow-OS Official Maintainer for ASUS ZenFone 5Z (Z01R)\r\nASUS Official ZenFone Series Insiders\r\nNothing Tech Taiwan Insiders\r\nGoogle Developer Student Clubs @ Chung Yuan Christian University,Taiwan. (中原大學) '23-'24 Lead\r\nL10n Taiwan 臺灣自由開源翻譯 L10N Member\r\nAndroid Apps 繁體中文化工作者\r\nOmniVision_台灣豪威科技有限公司 Test Integration Engineering Intern\r\n\r\n曾任：\r\nASUS ZenFone 5 (2018) Lead Maintainer\r\nArrow-OS Official Maintainer for Xiaomi Pad 5 Pro(elish)\r\ncrDroid / Havoc OS Official Maintainer for ASUS ZenFone 5Z (Z01R)\r\nProject Kaleidoscope Official Maintainer for “Redmi K40 / POCO F3 / Xiaomi 11x (alioth)” & “ASUS ZenFone 8 / ASUS_I006D (sake)”\r\nSkyHawk Recovery Project Official Maintainer for Asus ZenFone 5 (2018)\r\nNokia 8 / 8.1 Lead Maintainer\r\nOnePlus 9R Maintainer\r\nOpenCore Configurator 繁體中文化工作者\r\nSITCON 2021 開放式議程講者《從零開始編譯 Android 第三方系統！》\r\nIntel Taiwan 2nd Campus Ambassador\r\nCOSCUP 2025 議程講者《GKI Kernel: 終結 Android Kernel 的碎片化時代》",
+        "name": "EdwardWu"
+      }
+    },
+    {
+      "id": "2ab7a51f-5d46-4e5e-b9f1-53df68697012",
+      "avatar": "https://sessionize.com/image/1bcc-400o400o1-nVVDCUUeNmsV12VttxE5ay.jpg",
+      "en": {
+        "bio": "This is El who based in Singapore. I primarily work on AI and Mobile App development and has been recognized as an Android GDE (Google Developer Expert) by Google since 2022. Currently, I serve as a Tech Lead/Engineering Manager at a vertical AI company.\r\n\r\nBesides, I've authored two books, including ‘Extending Android Builds’, which were officially featured by Gradle.My other creative endeavors include speaking engagements and articles. I'm always eager to connect, exchange ideas, and brainstorm.\r\n\r\nYou can find more information from https://2bab.com/",
+        "name": "El"
+      },
+      "zh": {
+        "bio": "This is El who based in Singapore. I primarily work on AI and Mobile App development and has been recognized as an Android GDE (Google Developer Expert) by Google since 2022. Currently, I serve as a Tech Lead/Engineering Manager at a vertical AI company.\r\n\r\nBesides, I've authored two books, including ‘Extending Android Builds’, which were officially featured by Gradle.My other creative endeavors include speaking engagements and articles. I'm always eager to connect, exchange ideas, and brainstorm.\r\n\r\nYou can find more information from https://2bab.com/",
+        "name": "El"
+      }
+    },
+    {
+      "id": "bc27bba9-7540-4b16-b5bd-c699083f744e",
+      "avatar": "https://sessionize.com/image/3908-400o400o1-3ujz49hB8orvYXG2woMJs3.jpg",
+      "en": { "bio": "", "name": "Eric ShangKuan" },
+      "zh": { "bio": "", "name": "Eric ShangKuan" }
+    },
+    {
+      "id": "7accccfa-2d45-4372-8f18-ff7272aef039",
+      "avatar": "https://sessionize.com/image/2deb-400o400o1-3bspaiBupsVtaa5RXgcQQR.jpg",
+      "en": {
+        "bio": "Student in National Taiwan University of Science and Technology",
+        "name": "Erica Lin"
+      },
+      "zh": {
+        "bio": "Student in National Taiwan University of Science and Technology",
+        "name": "Erica Lin"
+      }
+    },
+    {
+      "id": "490adfc1-9ce5-4468-a023-3cb424b4fa38",
+      "avatar": "https://sessionize.com/image/0654-400o400o1-YpGB6kQs4AFxnvsBeULKZy.jpg",
+      "en": {
+        "bio": "現任APMIC CISO \r\n現任金融研訓院 AI資安講師\r\n曾任 交易所、證券、週邊機構及上市櫃公司資安工程師/主管/ 公會安全委員\r\n十多年金融資訊/資安工作經驗並管理跨國團隊\r\n近年專注雲端資安 /AI安全架構 \r\nGDG Taipei Organizer  / GDG Build with AI Speaker\r\n研討會講者：\t資安大會. INFOSEC. ISC2年會.COSCUP . MOPCON. GDG DevfestDay",
+        "name": "Fngi Shiu"
+      },
+      "zh": {
+        "bio": "現任APMIC CISO \r\n現任金融研訓院 AI資安講師\r\n曾任 交易所、證券、週邊機構及上市櫃公司資安工程師/主管/ 公會安全委員\r\n十多年金融資訊/資安工作經驗並管理跨國團隊\r\n近年專注雲端資安 /AI安全架構 \r\nGDG Taipei Organizer  / GDG Build with AI Speaker\r\n研討會講者：\t資安大會. INFOSEC. ISC2年會.COSCUP . MOPCON. GDG DevfestDay",
+        "name": "Fngi Shiu"
+      }
+    },
+    {
+      "id": "0435ba43-587b-4b35-bc8e-e3c688e70600",
+      "avatar": "https://sessionize.com/image/a084-400o400o1-97gxvLynpEr5ZGQsPzgjhT.jpg",
+      "en": { "bio": "GDG Organizer", "name": "Gina Chen" },
+      "zh": { "bio": "GDG Organizer", "name": "Gina Chen" }
+    },
+    {
+      "id": "0adb35c2-379b-4a14-b68f-4a757a3f6ed6",
+      "avatar": "https://sessionize.com/image/6303-400o400o1-4mhj3mWou1HQBfUd5v3fcG.png",
+      "en": { "bio": "", "name": "Jason Peng" },
+      "zh": { "bio": "", "name": "Jason Peng" }
+    },
+    {
+      "id": "29e9ee2f-e316-4829-bdb9-2fafdf7f3e8c",
+      "avatar": "https://sessionize.com/image/dd01-400o400o1-BnJLo7cscQKXC1GqE7bFcw.jpg",
+      "en": {
+        "bio": "作為 AI GDE，Jimmy Liao 致力於智慧製造與金融領域，將 AI 熱潮中的技術債轉化為核心優勢，與客戶協同提升價值與營運效率。\r\n\r\n日常生活就是跑步，曾經以跑步為通勤工具之一 (單程 20+ km)。\r\n\r\nAs an AI GDE, Jimmy Liao is dedicated to the fields of Smart Manufacturing and Finance, transforming the technical debt from the AI hype into core advantages, and collaborating with clients to elevate value and operational efficiency.\r\n",
+        "name": "Jimmy Liao"
+      },
+      "zh": {
+        "bio": "作為 AI GDE，Jimmy Liao 致力於智慧製造與金融領域，將 AI 熱潮中的技術債轉化為核心優勢，與客戶協同提升價值與營運效率。\r\n\r\n日常生活就是跑步，曾經以跑步為通勤工具之一 (單程 20+ km)。\r\n\r\nAs an AI GDE, Jimmy Liao is dedicated to the fields of Smart Manufacturing and Finance, transforming the technical debt from the AI hype into core advantages, and collaborating with clients to elevate value and operational efficiency.\r\n",
+        "name": "Jimmy Liao"
+      }
+    },
+    {
+      "id": "1447a9c7-43d5-48c4-83a5-0d612572072f",
+      "avatar": "https://sessionize.com/image/1f2d-400o400o1-Jw5hH1TDzPg8u2K9sGcfE9.jpg",
+      "en": {
+        "bio": "目前任職於新加坡商鈦坦科技\r\n擔任 Technical Manager 一職\r\n目前專注於探索 AI 應用的可能性\r\n以及落地所需考量的 DevOps 架構",
+        "name": "Jrting SHIAU"
+      },
+      "zh": {
+        "bio": "目前任職於新加坡商鈦坦科技\r\n擔任 Technical Manager 一職\r\n目前專注於探索 AI 應用的可能性\r\n以及落地所需考量的 DevOps 架構",
+        "name": "Jrting SHIAU"
+      }
+    },
+    {
+      "id": "a548e82d-2330-41f2-ba0c-c9177c98768c",
+      "avatar": "https://sessionize.com/image/612d-400o400o1-2d-2330-41f2-ba0c-c9177c98768c.2179abc7-9116-40ff-a2c6-a21f78d76649.jpg",
+      "en": {
+        "bio": "https://www.facebook.com/groups/480913682648708/?ref=group_header",
+        "name": "AI GDE - Kevin Chiu"
+      },
+      "zh": {
+        "bio": "https://www.facebook.com/groups/480913682648708/?ref=group_header",
+        "name": "AI GDE - Kevin Chiu"
+      }
+    },
+    {
+      "id": "223a6e79-7441-42ad-9993-c54c559dcdb6",
+      "avatar": "https://sessionize.com/image/c228-400o400o1-WZQbTdbtCnXoqRCt7zSBVE.jpg",
+      "en": {
+        "bio": "Coming from a non-traditional background in International Business, I began my journey into Data Science and Machine Learning as a self-taught learner, driven by curiosity and a desire to solve real-world problems. Over time, my interest evolved into a clear mission: to apply technology in a way that creates tangible impact in healthcare.\r\n\r\nMy journey into tech started outside of the traditional path, but led me straight into the intersection of healthcare and data. Now as a Master’s student in Smart Medicine and Health Informatics at National Taiwan University, I’m focused on Biomedical Informatics - designing technologies that are not only intelligent, but also meaningful in real-world clinical settings.\r\n\r\nI'm passionate about building solutions where clinical insight meets technical precision, and where ethical, explainable AI plays a critical role. I believe the future of healthcare isn’t just smart - it’s also transparent, human-centered, and inclusive.",
+        "name": "Kim Nguyen"
+      },
+      "zh": {
+        "bio": "Coming from a non-traditional background in International Business, I began my journey into Data Science and Machine Learning as a self-taught learner, driven by curiosity and a desire to solve real-world problems. Over time, my interest evolved into a clear mission: to apply technology in a way that creates tangible impact in healthcare.\r\n\r\nMy journey into tech started outside of the traditional path, but led me straight into the intersection of healthcare and data. Now as a Master’s student in Smart Medicine and Health Informatics at National Taiwan University, I’m focused on Biomedical Informatics - designing technologies that are not only intelligent, but also meaningful in real-world clinical settings.\r\n\r\nI'm passionate about building solutions where clinical insight meets technical precision, and where ethical, explainable AI plays a critical role. I believe the future of healthcare isn’t just smart - it’s also transparent, human-centered, and inclusive.",
+        "name": "Kim Nguyen"
+      }
+    },
+    {
+      "id": "b3a7c14a-f0d9-4372-ba76-efb2acc79f2d",
+      "avatar": "https://sessionize.com/image/240d-400o400o1-MmZozKYsmqCVwpWNtSw3w3.jpg",
+      "en": { "bio": "", "name": "Manikantan Krishnamurthy" },
+      "zh": { "bio": "", "name": "Manikantan Krishnamurthy" }
+    },
+    {
+      "id": "84296b39-df28-462e-a1c1-8f0a2416c555",
+      "avatar": "https://sessionize.com/image/06c3-400o400o1-hQVVmVuGqwMfTHziLooon6.png",
+      "en": { "bio": "https://sakanamax.github.io/", "name": "Max Huang" },
+      "zh": { "bio": "https://sakanamax.github.io/", "name": "Max Huang" }
+    },
+    {
+      "id": "48ecd2e5-51c3-4aec-99d4-0fa0718f92e8",
+      "avatar": "https://sessionize.com/image/839a-400o400o1-71W6UrFkMhwao8kbHE6R7o.jpg",
+      "en": {
+        "bio": "在 Google Cloud 擔任 Solutions Architect ，專注領域為IoT, AIoT, Conversational AI和Generative AI。",
+        "name": "Michael Chi"
+      },
+      "zh": {
+        "bio": "在 Google Cloud 擔任 Solutions Architect ，專注領域為IoT, AIoT, Conversational AI和Generative AI。",
+        "name": "Michael Chi"
+      }
+    },
+    {
+      "id": "ededcdda-e0a5-47c9-8adc-34f759ea2271",
+      "avatar": "https://sessionize.com/image/a916-400o400o1-LnS7WryvAzwthJ2iL8nmEJ.jpg",
+      "en": {
+        "bio": "Angular GDE、Microsoft MVP，主要熟悉 .NET WebAPI 與 Angular 開發技術，並經常於個人部落格分享學習知識。\r\n\r\n參加過四次 iT 邦幫忙鐵人賽，榮獲兩次冠軍與一次優選。並著有「打通 RxJS 任督二脈：從菜雞前進老鳥必學的關鍵知識」一書，該書曾榮獲 2021/8 繁體中文書 銷售排行 第 1 名！。",
+        "name": "Mike Huang"
+      },
+      "zh": {
+        "bio": "Angular GDE、Microsoft MVP，主要熟悉 .NET WebAPI 與 Angular 開發技術，並經常於個人部落格分享學習知識。\r\n\r\n參加過四次 iT 邦幫忙鐵人賽，榮獲兩次冠軍與一次優選。並著有「打通 RxJS 任督二脈：從菜雞前進老鳥必學的關鍵知識」一書，該書曾榮獲 2021/8 繁體中文書 銷售排行 第 1 名！。",
+        "name": "Mike Huang"
+      }
+    },
+    {
+      "id": "c0a05ef4-b87d-468d-8f27-c55103d4c526",
+      "avatar": "https://sessionize.com/image/b20d-400o400o1-Nk4MUvSDwCLMAz9pyf3h1f.jpg",
+      "en": {
+        "bio": "中文版\r\n\r\n劉岦崱（Nils Liu）｜資深資料科學家／副理\r\n\r\n劉岦崱現任於金融產業，專注於人工智慧與資料科學的應用與落地。他長期投入於生成式 AI、RAG/GraphRAG 檢索架構、智慧型代理（AI Agents）以及知識管理系統的設計，並結合雲端技術（GCP、Cloud Run、Cloud SQL）推動銀行內部數位轉型。\r\n在專案中，他不僅重視技術創新，更強調合規、安全與可稽核性，致力於打造符合金融監管標準的 AI 解決方案。劉岦崱帶領團隊曾在銀行內部創新競賽中獲得第一名，並持續推動 AI Coach、智慧型客戶模擬與跨國 AI 平台等前瞻計畫。\r\n他同時也是多項人工智慧與金融科技專利的發明人，並持續分享在生成式 AI 與應用開發上的實務經驗。\r\n\r\n⸻\r\n\r\n英文版\r\n\r\nNils Liu｜Senior Data Scientist / Deputy Manager\r\n\r\nNils Liu is a senior data scientist in the financial industry, specializing in applying AI and data science to real-world business challenges. His expertise covers Generative AI, RAG/GraphRAG retrieval systems, AI Agents, and enterprise knowledge management solutions, with strong integration of cloud technologies such as GCP, Cloud Run, and Cloud SQL.\r\nBeyond technical innovation, Nils emphasizes compliance, security, and auditability, ensuring AI solutions align with strict financial regulations. He has led award-winning projects, including the development of an AI-driven knowledge system and AI Coach for sales training, and is driving initiatives for cross-border AI platforms.\r\nAs an inventor of multiple AI and fintech patents, Nils continues to share practical insights on Generative AI, enterprise adoption, and next-generation AI applications.",
+        "name": "劉岦崱"
+      },
+      "zh": {
+        "bio": "中文版\r\n\r\n劉岦崱（Nils Liu）｜資深資料科學家／副理\r\n\r\n劉岦崱現任於金融產業，專注於人工智慧與資料科學的應用與落地。他長期投入於生成式 AI、RAG/GraphRAG 檢索架構、智慧型代理（AI Agents）以及知識管理系統的設計，並結合雲端技術（GCP、Cloud Run、Cloud SQL）推動銀行內部數位轉型。\r\n在專案中，他不僅重視技術創新，更強調合規、安全與可稽核性，致力於打造符合金融監管標準的 AI 解決方案。劉岦崱帶領團隊曾在銀行內部創新競賽中獲得第一名，並持續推動 AI Coach、智慧型客戶模擬與跨國 AI 平台等前瞻計畫。\r\n他同時也是多項人工智慧與金融科技專利的發明人，並持續分享在生成式 AI 與應用開發上的實務經驗。\r\n\r\n⸻\r\n\r\n英文版\r\n\r\nNils Liu｜Senior Data Scientist / Deputy Manager\r\n\r\nNils Liu is a senior data scientist in the financial industry, specializing in applying AI and data science to real-world business challenges. His expertise covers Generative AI, RAG/GraphRAG retrieval systems, AI Agents, and enterprise knowledge management solutions, with strong integration of cloud technologies such as GCP, Cloud Run, and Cloud SQL.\r\nBeyond technical innovation, Nils emphasizes compliance, security, and auditability, ensuring AI solutions align with strict financial regulations. He has led award-winning projects, including the development of an AI-driven knowledge system and AI Coach for sales training, and is driving initiatives for cross-border AI platforms.\r\nAs an inventor of multiple AI and fintech patents, Nils continues to share practical insights on Generative AI, enterprise adoption, and next-generation AI applications.",
+        "name": "劉岦崱"
+      }
+    },
+    {
+      "id": "6746e447-798f-4c2d-8107-1fd5ecb7d4c2",
+      "avatar": "https://sessionize.com/image/7681-400o400o1-W5y3sS3UqXUZrQWHt1L9aD.jpg",
+      "en": {
+        "bio": "TNL Mediagene 技術長，前愛料理與 INSIDE 共同創辦人與技術長。業餘時喜歡開源與 Google 技術，自 2020 年開始被選為 Google Developer Expert for Firebase。",
+        "name": "Richard Lee"
+      },
+      "zh": {
+        "bio": "TNL Mediagene 技術長，前愛料理與 INSIDE 共同創辦人與技術長。業餘時喜歡開源與 Google 技術，自 2020 年開始被選為 Google Developer Expert for Firebase。",
+        "name": "Richard Lee"
+      }
+    },
+    {
+      "id": "e2c238da-ccae-4220-8ba0-92937ba4256b",
+      "avatar": "https://sessionize.com/image/8d54-400o400o1-w8miCqm9R4b1U967Y7R3uB.JPG",
+      "en": {
+        "bio": "Suesi Tran is a Google Developer Expert in Dart & Flutter & Firebase, GDG Co-Organiser at GDG Melbourne and Flutter Melbourne, and a Women Techmaker Melbourne Ambassador. She has more than 18 years experience in mobile development, and started Flutter development since 2017. \r\n\r\nSuesi is the founder of Nartus, the company behind MemoirME - a digital diary designed to help people preserve meaningful memories, relieve stress, and support better mental well-being. MemoirME empowers users to tell their own stories, in their own voices, with the goal of fostering reflection, healing, and personal growth.",
+        "name": "Suesi Tran"
+      },
+      "zh": {
+        "bio": "Suesi Tran is a Google Developer Expert in Dart & Flutter & Firebase, GDG Co-Organiser at GDG Melbourne and Flutter Melbourne, and a Women Techmaker Melbourne Ambassador. She has more than 18 years experience in mobile development, and started Flutter development since 2017. \r\n\r\nSuesi is the founder of Nartus, the company behind MemoirME - a digital diary designed to help people preserve meaningful memories, relieve stress, and support better mental well-being. MemoirME empowers users to tell their own stories, in their own voices, with the goal of fostering reflection, healing, and personal growth.",
+        "name": "Suesi Tran"
+      }
+    },
+    {
+      "id": "6a2b6e0f-4e1e-4068-b446-5574567ec7ce",
+      "avatar": "https://sessionize.com/image/b2b3-400o400o1-R4k2XUP5Enke48osKDad98.jpg",
+      "en": {
+        "bio": "Hi, I’m Sumit! I’m an engineer by day and semi-pro gamer by night.\r\n\r\nAs a Googler originally joining in 2007, I’ve been continuously amazed by the evolution of developer platforms and technology, and passionate about meeting and teaching developers about some of our latest developer products. I’ve worked on the Google Web Toolkit, AdWords API, Android Wear and Firebase and each hold a special place in my heart because I’ve shared in countless achievements and journeys with developers who’ve used each of them. My latest journey involves helping developers build the next generation of intelligent apps using Gemini, all while leveraging the scale and simplicity of Firebase.\r\n\r\nFeel free to reach out to me on Twitter (@s_chande), or look up my semi-pro gaming career in Tekken (player tag: Oni Jin).",
+        "name": "Sumit Chandel"
+      },
+      "zh": {
+        "bio": "Hi, I’m Sumit! I’m an engineer by day and semi-pro gamer by night.\r\n\r\nAs a Googler originally joining in 2007, I’ve been continuously amazed by the evolution of developer platforms and technology, and passionate about meeting and teaching developers about some of our latest developer products. I’ve worked on the Google Web Toolkit, AdWords API, Android Wear and Firebase and each hold a special place in my heart because I’ve shared in countless achievements and journeys with developers who’ve used each of them. My latest journey involves helping developers build the next generation of intelligent apps using Gemini, all while leveraging the scale and simplicity of Firebase.\r\n\r\nFeel free to reach out to me on Twitter (@s_chande), or look up my semi-pro gaming career in Tekken (player tag: Oni Jin).",
+        "name": "Sumit Chandel"
+      }
+    },
+    {
+      "id": "010b5826-2430-48eb-8355-7b375b1e87dc",
+      "avatar": "https://sessionize.com/image/c3b8-400o400o1-3oqMjxqAccw3LNUAmJNfer.jpg",
+      "en": {
+        "bio": "Tamas is a Google Developer Expert in Web Technologies and a seasoned Developer Evangelist. He is a passionate advocate for modern web technologies, helping people understand and unlock the latest & greatest features of web development.",
+        "name": "Tamas"
+      },
+      "zh": {
+        "bio": "Tamas is a Google Developer Expert in Web Technologies and a seasoned Developer Evangelist. He is a passionate advocate for modern web technologies, helping people understand and unlock the latest & greatest features of web development.",
+        "name": "Tamas"
+      }
+    },
+    {
+      "id": "55c4d43e-e1dc-4924-b4eb-15c59a5affdc",
+      "avatar": "https://sessionize.com/image/555c-400o400o1-hkH6cBKqD7u22YSwduFPSG.jpg",
+      "en": {
+        "bio": "從 2005 年開始接觸 Objective C 語言已經 macOS App 開發，從 2008 年開始開發 iOS app，從 2011 年開始在 KKBOX 工作，參與過 KKBOX 的 macOS、iOS、tvOS 與 watchOS 版本開發，以及 KKTIX、Uta Pass 的 iOS 版本，之前也參與過雅虎輸入發以及無蝦皮輸入法 macOS 版本。從 2018 年開始接觸 Flutter。",
+        "name": "zonble"
+      },
+      "zh": {
+        "bio": "從 2005 年開始接觸 Objective C 語言已經 macOS App 開發，從 2008 年開始開發 iOS app，從 2011 年開始在 KKBOX 工作，參與過 KKBOX 的 macOS、iOS、tvOS 與 watchOS 版本開發，以及 KKTIX、Uta Pass 的 iOS 版本，之前也參與過雅虎輸入發以及無蝦皮輸入法 macOS 版本。從 2018 年開始接觸 Flutter。",
+        "name": "zonble"
+      }
+    },
+    {
+      "id": "245ec8d9-dd6e-499b-a9ce-b40755e2ad2b",
+      "avatar": "https://sessionize.com/image/791d-400o400o1-G3Gdp28sQxK9fEFYeuqgYL.jpg",
+      "en": {
+        "bio": "Currently the CTO of \"Duotify Inc.\" Awarded the Google Developer Expert (GDE) in ML/GenAI in 2024. Awarded the Google Developer Expert (GDE) in Angular in 2018. Selected as a Microsoft Most Valuable Professional (MVP) for 17 consecutive terms. Recognized as a Microsoft Regional Director in 2019. Proficient in technologies related to Angular, JavaScript, .NET, C#, Java, Go, Docker, and Kubernetes. Skilled in DevOps, organizational culture building, software team construction, and management. Passionate about sharing knowledge.",
+        "name": "Will 保哥"
+      },
+      "zh": {
+        "bio": "Currently the CTO of \"Duotify Inc.\" Awarded the Google Developer Expert (GDE) in ML/GenAI in 2024. Awarded the Google Developer Expert (GDE) in Angular in 2018. Selected as a Microsoft Most Valuable Professional (MVP) for 17 consecutive terms. Recognized as a Microsoft Regional Director in 2019. Proficient in technologies related to Angular, JavaScript, .NET, C#, Java, Go, Docker, and Kubernetes. Skilled in DevOps, organizational culture building, software team construction, and management. Passionate about sharing knowledge.",
+        "name": "Will 保哥"
+      }
+    },
+    {
+      "id": "e964b091-45b0-41e5-92ed-92cef687abb2",
+      "avatar": "https://sessionize.com/image/079f-400o400o1-N44ShcmQ8HVHDukz2sS39J.png",
+      "en": {
+        "bio": "大家好，我是 Simon 劉育維，過去曾擔任過電信業的資深工程師和 在軟體業擔任客戶技術成功工程師，幫助各大知名企業進行機器學習、深度學習、大型語言模型等人工智慧議題進行人工智慧架構規劃的討論，目前在 Medium 上已經公開超過百篇技術文章，我希望能夠嘗試使用 AI 做應用，幫助客戶用 AI 解決痛點。",
+        "name": "Simon Liu"
+      },
+      "zh": {
+        "bio": "大家好，我是 Simon 劉育維，過去曾擔任過電信業的資深工程師和 在軟體業擔任客戶技術成功工程師，幫助各大知名企業進行機器學習、深度學習、大型語言模型等人工智慧議題進行人工智慧架構規劃的討論，目前在 Medium 上已經公開超過百篇技術文章，我希望能夠嘗試使用 AI 做應用，幫助客戶用 AI 解決痛點。",
+        "name": "Simon Liu"
+      }
+    },
+    {
+      "id": "c7ec1277-44f7-45f2-89d7-d842ef205a1f",
+      "avatar": "https://sessionize.com/image/db08-400o400o1-TV6DykVmjrNGiYvHtiJiuP.jpg",
+      "en": {
+        "bio": "講者是 Twinkle AI 社群的創辦人，現任 APMIC AI 工程總監，長期專注於大型語言模型的訓練與本土化應用，具備從資料蒐集、模型預訓練到產業落地的完整實務經驗。近期聚焦於 Gemma 系列模型的研究與調校，特別是在有限資源環境下進行繁體中文語料的預訓練與微調，累積了豐富的實驗與失敗案例，並將其轉化為可重現的工程策略。他曾發表 台灣最小的開源推理模型，展現資源受限環境下的研發潛力；同時也積極推動生成式 AI 的開發者交流與教育推廣，協助更多工程師理解並實踐 LLM 的可能性。過去亦參與金融、客服與教育等產業的生成式 AI 專案，推動多語言、多模態應用落地，特別重視繁體中文在地化的挑戰與解決方案。",
+        "name": "黃亮勳"
+      },
+      "zh": {
+        "bio": "講者是 Twinkle AI 社群的創辦人，現任 APMIC AI 工程總監，長期專注於大型語言模型的訓練與本土化應用，具備從資料蒐集、模型預訓練到產業落地的完整實務經驗。近期聚焦於 Gemma 系列模型的研究與調校，特別是在有限資源環境下進行繁體中文語料的預訓練與微調，累積了豐富的實驗與失敗案例，並將其轉化為可重現的工程策略。他曾發表 台灣最小的開源推理模型，展現資源受限環境下的研發潛力；同時也積極推動生成式 AI 的開發者交流與教育推廣，協助更多工程師理解並實踐 LLM 的可能性。過去亦參與金融、客服與教育等產業的生成式 AI 專案，推動多語言、多模態應用落地，特別重視繁體中文在地化的挑戰與解決方案。",
+        "name": "黃亮勳"
+      }
+    },
+    {
+      "id": "713d90dd-1415-482a-a088-cac6d4abd25d",
+      "avatar": "https://sessionize.com/image/ae16-400o400o1-XUczwzrRTEgV6Qu9CJ5Jc7.jpg",
+      "en": {
+        "bio": "一位不專業的軟體工程師，具有超過 15 年的軟體開發與技術管理經驗，專長橫跨後端系統開發、前端架構設計，以及前端團隊的管理與協作。近年來積極投入人工智慧應用的規劃與導入，致力於將 AI 技術與企業需求結合，推動創新與效能提升。\r\n\r\n2023 MWC講者\r\n2024 HWDC講者",
+        "name": "湯姆羊"
+      },
+      "zh": {
+        "bio": "一位不專業的軟體工程師，具有超過 15 年的軟體開發與技術管理經驗，專長橫跨後端系統開發、前端架構設計，以及前端團隊的管理與協作。近年來積極投入人工智慧應用的規劃與導入，致力於將 AI 技術與企業需求結合，推動創新與效能提升。\r\n\r\n2023 MWC講者\r\n2024 HWDC講者",
+        "name": "湯姆羊"
+      }
+    },
+    {
+      "id": "ca09cebf-a468-4723-99fb-cdb1c5fdce51",
+      "avatar": "https://sessionize.com/image/2c36-400o400o1-5XkYamnfBjTzAgL6ydAR5.jpg",
+      "en": {
+        "bio": "目前擔任風光 Ai 窗資訊部副總經理，為傳統製造業與建築產業進行數位轉型與資訊系統現代化。\r\n之前於中華電信研究院雲端運算研究所擔任計畫副理與高級研究員，亦是院架構師團隊成員之一，協助全院推動系統雲原生化。",
+        "name": "劉啟祥"
+      },
+      "zh": {
+        "bio": "目前擔任風光 Ai 窗資訊部副總經理，為傳統製造業與建築產業進行數位轉型與資訊系統現代化。\r\n之前於中華電信研究院雲端運算研究所擔任計畫副理與高級研究員，亦是院架構師團隊成員之一，協助全院推動系統雲原生化。",
+        "name": "劉啟祥"
+      }
+    },
+    {
+      "id": "3a6bdfde-22f7-4708-b1be-c3f5881d3a7b",
+      "avatar": "https://sessionize.com/image/2c8f-400o400o1-wtvMFCfhgnGLN7YZ48tf5S.png",
+      "en": {
+        "bio": "Android Taipei host、多年經驗 Android 開發者，同時也熱愛研究 Architecture, Functional programming 以及語言的語法特性",
+        "name": "彥彬"
+      },
+      "zh": {
+        "bio": "Android Taipei host、多年經驗 Android 開發者，同時也熱愛研究 Architecture, Functional programming 以及語言的語法特性",
+        "name": "彥彬"
+      }
+    },
+    {
+      "id": "1b69ca21-ea65-43f3-995d-b07cb2594ce6",
+      "avatar": "https://sessionize.com/image/5047-400o400o1-3FYAZScicnUjVyHpgEJsCn.jpg",
+      "en": {
+        "bio": "BIM與數位轉型顧問｜運算設計與 AI 整合顧問｜成功大學建築博士在學",
+        "name": "徐灝(HSU HAO)"
+      },
+      "zh": {
+        "bio": "BIM與數位轉型顧問｜運算設計與 AI 整合顧問｜成功大學建築博士在學",
+        "name": "徐灝(HSU HAO)"
+      }
+    },
+    {
+      "id": "f01958cd-5c8c-41e0-9b5f-a0df510a20f0",
+      "avatar": "https://sessionize.com/image/40bf-400o400o1-BQhWNtDRQv4AW7iHX8mcDn.png",
+      "en": {
+        "bio": "As the AI Product Owner at a Cathay Financial Holdings subsidiary, I specialize in harnessing generative AI and data integration to drive process transformation. I am passionate about turning real user requirements into impactful business solutions, bridging technical innovation with operational effectiveness. \r\n\r\nWith over seven years of hands-on experience in fintech and insurtech, I have a strong track record in leading cross-disciplinary innovation and designing intelligent enterprise systems. Guided by principles of robust governance, platform-based approaches, and measurable impact, I am dedicated to enabling enterprise automation and scaling AI adoption across organizations.",
+        "name": "陳立晉"
+      },
+      "zh": {
+        "bio": "As the AI Product Owner at a Cathay Financial Holdings subsidiary, I specialize in harnessing generative AI and data integration to drive process transformation. I am passionate about turning real user requirements into impactful business solutions, bridging technical innovation with operational effectiveness. \r\n\r\nWith over seven years of hands-on experience in fintech and insurtech, I have a strong track record in leading cross-disciplinary innovation and designing intelligent enterprise systems. Guided by principles of robust governance, platform-based approaches, and measurable impact, I am dedicated to enabling enterprise automation and scaling AI adoption across organizations.",
+        "name": "陳立晉"
+      }
+    },
+    {
+      "id": "5f5ae63f-c9e1-4687-b977-f97973553506",
+      "avatar": "https://sessionize.com/image/f010-400o400o1-XigTWWTfvuZjtFPYnRimt8.png",
+      "en": {
+        "bio": "來自中科大Imac 社群，參與過業界POC專案開發。從中學習到許多與雲端相關、Agent 開發相關的技術經驗。",
+        "name": "石育綸"
+      },
+      "zh": {
+        "bio": "來自中科大Imac 社群，參與過業界POC專案開發。從中學習到許多與雲端相關、Agent 開發相關的技術經驗。",
+        "name": "石育綸"
+      }
+    },
+    {
+      "id": "6a2bb931-6f51-4e37-b907-b12a17eb4745",
+      "avatar": "https://sessionize.com/image/a64a-400o400o1-W7fboZSyAa39hmFbWjDQSv.jpg",
+      "en": {
+        "bio": "網站程式開發者 / 講師 / 遊戲宅 / 漫畫宅，喜愛非主流的新玩具。個性愛現，學會新把戲就迫不急待想跟大家分享。著有《為你自己學 Git》以及《為你自己學 Ruby on Rails》等暢銷書籍。",
+        "name": "高見龍"
+      },
+      "zh": {
+        "bio": "網站程式開發者 / 講師 / 遊戲宅 / 漫畫宅，喜愛非主流的新玩具。個性愛現，學會新把戲就迫不急待想跟大家分享。著有《為你自己學 Git》以及《為你自己學 Ruby on Rails》等暢銷書籍。",
+        "name": "高見龍"
+      }
+    }
+  ],
+  "tags": [
+    { "id": "394315", "en": { "name": "AI/ML" }, "zh": { "name": "AI/ML" } },
+    {
+      "id": "411193",
+      "en": { "name": "Open Source" },
+      "zh": { "name": "Open Source" }
+    },
+    { "id": "394314", "en": { "name": "Cloud" }, "zh": { "name": "Cloud" } },
+    {
+      "id": "394316",
+      "en": { "name": "Firebase" },
+      "zh": { "name": "Firebase" }
+    },
+    { "id": "394317", "en": { "name": "Web" }, "zh": { "name": "Web" } },
+    {
+      "id": "394324",
+      "en": { "name": "Flutter" },
+      "zh": { "name": "Flutter" }
+    },
+    {
+      "id": "394323",
+      "en": { "name": "Cyber Security" },
+      "zh": { "name": "Cyber Security" }
+    },
+    { "id": "394329", "en": { "name": "DevOps" }, "zh": { "name": "DevOps" } },
+    {
+      "id": "394679",
+      "en": { "name": "Community" },
+      "zh": { "name": "Community" }
+    },
+    { "id": "394322", "en": { "name": "Chrome" }, "zh": { "name": "Chrome" } },
+    { "id": "394313", "en": { "name": "Mobile" }, "zh": { "name": "Mobile" } },
+    {
+      "id": "394325",
+      "en": { "name": "Android" },
+      "zh": { "name": "Android" }
+    },
+    { "id": "394320", "en": { "name": "Golang" }, "zh": { "name": "Golang" } },
+    { "id": "394326", "en": { "name": "Design" }, "zh": { "name": "Design" } }
+  ]
+}
