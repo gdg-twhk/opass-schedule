@@ -18,8 +18,8 @@
       "speakers": [],
       "tags": [],
       "type": "297889",
-      "en": { "description": null, "title": "報到" },
-      "zh": { "description": null, "title": "報到" }
+      "en": { "description": "", "title": "報到" },
+      "zh": { "description": "", "title": "報到" }
     },
     {
       "id": "e71fe8fc-3916-4c1d-801d-9bc7b95af143",
@@ -30,8 +30,8 @@
       "speakers": [],
       "tags": [],
       "type": "297889",
-      "en": { "description": null, "title": "Opening" },
-      "zh": { "description": null, "title": "Opening" }
+      "en": { "description": "", "title": "Opening" },
+      "zh": { "description": "", "title": "Opening" }
     },
     {
       "id": "1083281",
@@ -96,8 +96,8 @@
       "speakers": [],
       "tags": [],
       "type": "297889",
-      "en": { "description": null, "title": "Google Cloud Credit Redeem" },
-      "zh": { "description": null, "title": "Google Cloud Credit Redeem" }
+      "en": { "description": "", "title": "Google Cloud Credit Redeem" },
+      "zh": { "description": "", "title": "Google Cloud Credit Redeem" }
     },
     {
       "id": "1043549",
@@ -219,8 +219,8 @@
       "speakers": [],
       "tags": [],
       "type": "297889",
-      "en": { "description": null, "title": "閉幕 Ending" },
-      "zh": { "description": null, "title": "閉幕 Ending" }
+      "en": { "description": "", "title": "閉幕 Ending" },
+      "zh": { "description": "", "title": "閉幕 Ending" }
     },
     {
       "id": "1023941",
